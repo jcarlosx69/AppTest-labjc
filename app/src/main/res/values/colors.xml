@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Colores de labjc.es (los mismos que LabjcColors en ui/LabjcTheme.kt) -->
+    <color name="labjc_azul">#FF145BA0</color>
+    <color name="labjc_azul_oscuro">#FF1B3A5C</color>
+    <color name="labjc_cian">#FF29A8D8</color>
+    <color name="labjc_fondo">#FFEEF4FA</color>
+
+    <!-- Fondo del icono adaptativo. Cada categoría puede cambiarlo en su carpeta res/ -->
+    <color name="ic_launcher_background">#FFFFFFFF</color>
+</resources>

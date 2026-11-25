@@ -1,0 +1,6422 @@
+{
+ "title": "Auxiliar de Enfermería - SCS",
+ "blocks": [
+  {
+   "name": "Prevención de riesgos laborales",
+   "from": 1,
+   "to": 15
+  },
+  {
+   "name": "Atención Primaria y modelos de enfermería",
+   "from": 16,
+   "to": 25
+  },
+  {
+   "name": "Higiene y aseo del paciente",
+   "from": 26,
+   "to": 39
+  },
+  {
+   "name": "Cama hospitalaria, posiciones y movilización",
+   "from": 40,
+   "to": 49
+  },
+  {
+   "name": "Drenajes, exploraciones, quirófano y desinfección",
+   "from": 50,
+   "to": 65
+  },
+  {
+   "name": "Constantes vitales y balance hídrico",
+   "from": 66,
+   "to": 79
+  },
+  {
+   "name": "Valoración del paciente, piel y anejos",
+   "from": 80,
+   "to": 91
+  },
+  {
+   "name": "Eliminación, sondajes y estomas",
+   "from": 92,
+   "to": 104
+  },
+  {
+   "name": "Toma de muestras y residuos sanitarios",
+   "from": 105,
+   "to": 117
+  },
+  {
+   "name": "Nutrición y dietética",
+   "from": 118,
+   "to": 130
+  },
+  {
+   "name": "Farmacología",
+   "from": 131,
+   "to": 143
+  },
+  {
+   "name": "Termoterapia y crioterapia",
+   "from": 144,
+   "to": 155
+  },
+  {
+   "name": "Aparato respiratorio y oxigenoterapia",
+   "from": 156,
+   "to": 167
+  },
+  {
+   "name": "Infección hospitalaria, aislamiento y enfermedades transmisibles",
+   "from": 168,
+   "to": 192
+  },
+  {
+   "name": "Esterilización",
+   "from": 193,
+   "to": 204
+  },
+  {
+   "name": "Reproducción, embarazo y parto",
+   "from": 205,
+   "to": 216
+  },
+  {
+   "name": "Recién nacido y pediatría",
+   "from": 217,
+   "to": 228
+  },
+  {
+   "name": "Heridas y fracturas",
+   "from": 229,
+   "to": 240
+  },
+  {
+   "name": "Paciente terminal, salud mental y geriatría",
+   "from": 241,
+   "to": 252
+  },
+  {
+   "name": "Úlceras por presión",
+   "from": 253,
+   "to": 264
+  },
+  {
+   "name": "Urgencias y emergencias",
+   "from": 265,
+   "to": 276
+  },
+  {
+   "name": "Salud laboral y Seguridad Social",
+   "from": 277,
+   "to": 288
+  },
+  {
+   "name": "Documentación sanitaria",
+   "from": 289,
+   "to": 300
+  }
+ ],
+ "questions": [
+  {
+   "text": "¿Cuál es la Ley de Prevención de Riesgos Laborales?",
+   "options": [
+    {
+     "text": "Ley 31/1995, de 6 de noviembre.",
+     "isCorrect": false
+    },
+    {
+     "text": "Ley 13/1995, de 8 de noviembre.",
+     "isCorrect": false
+    },
+    {
+     "text": "Ley 31/1995, de 8 de noviembre.",
+     "isCorrect": true
+    },
+    {
+     "text": "Ley 31/1996, de 6 noviembre.",
+     "isCorrect": false
+    }
+   ]
+  },
+  {
+   "text": "¿Qué artículo de la Constitución Española configura el soporte básico en que se asienta la Ley de Prevención de Riesgos Laborales?",
+   "options": [
+    {
+     "text": "Artículo 40.2.",
+     "isCorrect": true
+    },
+    {
+     "text": "Artículo 43.1.",
+     "isCorrect": false
+    },
+    {
+     "text": "Artículo 42.1.",
+     "isCorrect": false
+    },
+    {
+     "text": "Artículo 41.2.",
+     "isCorrect": false
+    }
+   ]
+  },
+  {
+   "text": "En relación al artículo 40.2 de la Constitución Española, señala la afirmación correcta:",
+   "options": [
+    {
+     "text": "Encomienda a los poderes públicos velar por la seguridad e higiene en el trabajo.",
+     "isCorrect": false
+    },
+    {
+     "text": "Este mandato conlleva la necesidad de desarrollar una política de protección de la salud de los trabajadores.",
+     "isCorrect": false
+    },
+    {
+     "text": "Encuentra en la Ley de Prevención de Riesgos Laborales su pilar fundamental.",
+     "isCorrect": false
+    },
+    {
+     "text": "Todas las respuestas son correctas.",
+     "isCorrect": true
+    }
+   ]
+  },
+  {
+   "text": "Señala cuál es una de las principales novedades de la Ley 31/1995 de Prevención de Riesgos Laborales:",
+   "options": [
+    {
+     "text": "Solamente posee carácter de legislación laboral.",
+     "isCorrect": false
+    },
+    {
+     "text": "Se aplicará también en el ámbito de las Administraciones públicas.",
+     "isCorrect": true
+    },
+    {
+     "text": "No constituye norma básica del régimen estatutario de los funcionarios públicos.",
+     "isCorrect": false
+    },
+    {
+     "text": "Solamente se aplicará en el ámbito de las Administraciones privadas.",
+     "isCorrect": false
+    }
+   ]
+  },
+  {
+   "text": "Señala qué capítulo de la Ley 31/1995 de Prevención de Riesgos Laborales regula el conjunto de derechos y obligaciones:",
+   "options": [
+    {
+     "text": "Capítulo I.",
+     "isCorrect": false
+    },
+    {
+     "text": "Capítulo V.",
+     "isCorrect": false
+    },
+    {
+     "text": "Capítulo III.",
+     "isCorrect": true
+    },
+    {
+     "text": "Capítulo II.",
+     "isCorrect": false
+    }
+   ]
+  },
+  {
+   "text": "Señala qué capítulo de la Ley 31/1995 de Prevención de Riesgos Laborales regula los derechos de consulta y participación de los trabajadores:",
+   "options": [
+    {
+     "text": "Capítulo V.",
+     "isCorrect": true
+    },
+    {
+     "text": "Capítulo I.",
+     "isCorrect": false
+    },
+    {
+     "text": "Capítulo II.",
+     "isCorrect": false
+    },
+    {
+     "text": "Capítulo IV.",
+     "isCorrect": false
+    }
+   ]
+  },
+  {
+   "text": "En relación a los derechos de consulta y participación de los trabajadores, según la Ley 31/1995 de Prevención de Riesgos Laborales, señala la respuesta INCORRECTA:",
+   "options": [
+    {
+     "text": "La Ley atribuye a los Delegados de Prevención el ejercicio de las funciones especializadas en materia de prevención de riesgos en el trabajo.",
+     "isCorrect": false
+    },
+    {
+     "text": "Dichos derechos tienen que ver con las cuestiones que afectan a la seguridad y salud en el trabajo.",
+     "isCorrect": false
+    },
+    {
+     "text": "Junto a ello, el Comité de Seguridad y Salud, se configura como el órgano de encuentro entre representantes y empresario.",
+     "isCorrect": false
+    },
+    {
+     "text": "Todas son incorrectas.",
+     "isCorrect": true
+    }
+   ]
+  },
+  {
+   "text": "Señale qué artículos comprenden el Capítulo III de Derechos y Obligaciones de la Ley 31/1995 de Prevención de Riesgos Laborales:",
+   "options": [
+    {
+     "text": "Del artículo 14 al artículo 29.",
+     "isCorrect": true
+    },
+    {
+     "text": "Del artículo 13 al artículo 29.",
+     "isCorrect": false
+    },
+    {
+     "text": "Del artículo 14 al artículo 28.",
+     "isCorrect": false
+    },
+    {
+     "text": "Del artículo 31 al artículo 40.",
+     "isCorrect": false
+    }
+   ]
+  },
+  {
+   "text": "Señale qué artículos comprenden el Capítulo V de derechos de consulta y participación de los trabajadores de la Ley 31/1995 de Prevención de Riesgos Laborales:",
+   "options": [
+    {
+     "text": "Del artículo 14 al artículo 29.",
+     "isCorrect": false
+    },
+    {
+     "text": "Del artículo 13 al artículo 29.",
+     "isCorrect": false
+    },
+    {
+     "text": "Del artículo 31 al artículo 40.",
+     "isCorrect": false
+    },
+    {
+     "text": "Del artículo 33 al artículo 40.",
+     "isCorrect": true
+    }
+   ]
+  },
+  {
+   "text": "En relación con el artículo 14. Derecho a la protección frente a los riesgos laborales, de la Ley 31/1995 de Prevención de Riesgos Laborales. Señale la opción INCORRECTA:",
+   "options": [
+    {
+     "text": "Los trabajadores tienen derecho a una protección eficaz en materia de seguridad y salud en el trabajo.",
+     "isCorrect": false
+    },
+    {
+     "text": "En cumplimiento del deber de protección, el empresario deberá garantizar la seguridad y la salud de los trabajadores a su servicio en todos los aspectos relacionados con el trabajo.",
+     "isCorrect": false
+    },
+    {
+     "text": "El coste de las medidas relativas a la seguridad y la salud en el trabajo deberá recaer sobre los trabajadores en algunos supuestos.",
+     "isCorrect": true
+    },
+    {
+     "text": "El empresario deberá cumplir las obligaciones establecidas en la normativa sobre prevención de riesgos laborales.",
+     "isCorrect": false
+    }
+   ]
+  },
+  {
+   "text": "Artículo 26. Protección de la maternidad, de la Ley 31/1995 de Prevención de Riesgos Laborales. Señale la opción INCORRECTA:",
+   "options": [
+    {
+     "text": "La evaluación de los riesgos deberá comprender la determinación de la naturaleza, el grado y la duración de la exposición de las trabajadoras en situación de embarazo o parto reciente a agentes, procedimientos o condiciones de trabajo que puedan influir negativamente.",
+     "isCorrect": false
+    },
+    {
+     "text": "Cuando la adaptación de las condiciones o del tiempo de trabajo no resultase posible o, a pesar de tal adaptación, las condiciones de un puesto de trabajo pudieran influir negativamente, ésta deberá desempeñar un puesto de trabajo o función diferente y compatible con su estado.",
+     "isCorrect": false
+    },
+    {
+     "text": "Si dicho cambio de puesto no resultara técnica u objetivamente posible, podrá declararse el paso de la trabajadora afectada a la situación de suspensión definitiva del contrato por riesgo durante el embarazo.",
+     "isCorrect": true
+    },
+    {
+     "text": "Las trabajadoras embarazadas tendrán derecho a ausentarse del trabajo, con derecho a remuneración, para la realización de exámenes prenatales y técnicas de preparación al parto, previo aviso.",
+     "isCorrect": false
+    }
+   ]
+  },
+  {
+   "text": "Artículo 29. Obligaciones de los trabajadores en materia de prevención de riesgos, de la Ley 31/1995 de Prevención de Riesgos Laborales. Señale la opción CORRECTA:",
+   "options": [
+    {
+     "text": "Los trabajadores deberán utilizar correctamente los medios y equipos de protección facilitados por el empresario, de acuerdo con las instrucciones recibidas de éste.",
+     "isCorrect": false
+    },
+    {
+     "text": "Los trabajadores deberán cooperar con el empresario para que éste pueda garantizar unas condiciones de trabajo que sean seguras y no entrañen riesgos para la seguridad y la salud de los trabajadores.",
+     "isCorrect": false
+    },
+    {
+     "text": "El incumplimiento por los trabajadores de las obligaciones en materia de prevención de riesgos a que se refieren los apartados anteriores tendrá la consideración de incumplimiento laboral.",
+     "isCorrect": false
+    },
+    {
+     "text": "Todas las respuestas son correctas.",
+     "isCorrect": true
+    }
+   ]
+  },
+  {
+   "text": "Artículo 33. Consulta de los trabajadores, de la Ley 31/1995 de Prevención de Riesgos Laborales. El empresario deberá consultar a los trabajadores, con la debida antelación, la adopción de las decisiones relativas a: Señale la opción CORRECTA:",
+   "options": [
+    {
+     "text": "La designación de los trabajadores encargados de las medidas de emergencia.",
+     "isCorrect": true
+    },
+    {
+     "text": "El proyecto y la organización de la formación en materia de promoción de riesgos.",
+     "isCorrect": false
+    },
+    {
+     "text": "La planificación y la organización del trabajo en la empresa y la introducción de nuevas tecnologías, en todo lo relacionado con las consecuencias que éstas pudieran tener en la comodidad de los trabajadores y el empresario.",
+     "isCorrect": false
+    },
+    {
+     "text": "Todas las respuestas son correctas.",
+     "isCorrect": false
+    }
+   ]
+  },
+  {
+   "text": "Los equipos de Atención Primaria de Salud:",
+   "options": [
+    {
+     "text": "Son un grupo de profesionales que realizan diversas funciones, con una metodología compartida y dirigida a un objetivo común.",
+     "isCorrect": false
+    },
+    {
+     "text": "Tienen como objetivo principal la atención de los enfermos desde una perspectiva multidisciplinar y comunitaria.",
+     "isCorrect": false
+    },
+    {
+     "text": "También tienen en cuenta aspectos sociales, económicos y culturales.",
+     "isCorrect": false
+    },
+    {
+     "text": "Todas son correctas.",
+     "isCorrect": true
+    }
+   ]
+  },
+  {
+   "text": "¿Qué artículo hace referencia a los Delegados de Prevención en la Ley 31/1995 de Prevención de Riesgos Laborales?",
+   "options": [
+    {
+     "text": "Artículo 36.",
+     "isCorrect": false
+    },
+    {
+     "text": "Artículo 35.",
+     "isCorrect": true
+    },
+    {
+     "text": "Artículo 39.",
+     "isCorrect": false
+    },
+    {
+     "text": "Artículo 37.",
+     "isCorrect": false
+    }
+   ]
+  },
+  {
+   "text": "¿Qué escalas se pueden utilizar para valorar el grado de independencia/dependencia en las AVD Básicas?",
+   "options": [
+    {
+     "text": "Escalas de Lawton y Brody.",
+     "isCorrect": false
+    },
+    {
+     "text": "Escalas de Katz y Barthel.",
+     "isCorrect": true
+    },
+    {
+     "text": "Escala Philadelphia Geriatic Centre.",
+     "isCorrect": false
+    },
+    {
+     "text": "Todas son correctas.",
+     "isCorrect": false
+    }
+   ]
+  },
+  {
+   "text": "Son funciones del Auxiliar de Enfermería en un Hospital;",
+   "options": [
+    {
+     "text": "Acogida y orientación de los enfermos.",
+     "isCorrect": true
+    },
+    {
+     "text": "Auxiliar directamente al médico en las consultas externas.",
+     "isCorrect": false
+    },
+    {
+     "text": "Administración de medicamentos por vía parenteral.",
+     "isCorrect": false
+    },
+    {
+     "text": "Aplicación de tratamientos curativos de carácter no medicamentoso.",
+     "isCorrect": false
+    }
+   ]
+  },
+  {
+   "text": "La estructura funcional en la que se van a desarrollar las actividades propias de la Atención Primaria es:",
+   "options": [
+    {
+     "text": "La zona básica de Salud.",
+     "isCorrect": false
+    },
+    {
+     "text": "El área de Salud.",
+     "isCorrect": false
+    },
+    {
+     "text": "El Centro de Salud.",
+     "isCorrect": true
+    },
+    {
+     "text": "Todas las anteriores son ciertas.",
+     "isCorrect": false
+    }
+   ]
+  },
+  {
+   "text": "Son necesidades en la Pirámide de Maslow...",
+   "options": [
+    {
+     "text": "Necesidades fisiológicas.",
+     "isCorrect": false
+    },
+    {
+     "text": "Necesidades de seguridad.",
+     "isCorrect": false
+    },
+    {
+     "text": "Necesidades sociales.",
+     "isCorrect": false
+    },
+    {
+     "text": "Todas son correctas.",
+     "isCorrect": true
+    }
+   ]
+  },
+  {
+   "text": "La prevención secundaria tiene como objetivo.",
+   "options": [
+    {
+     "text": "Conseguir que cuando la enfermedad o su secuela no puedan ser eliminadas completamente, causen el mínimo de incapacidad.",
+     "isCorrect": false
+    },
+    {
+     "text": "Evitar los problemas de salud antes de que ocurran.",
+     "isCorrect": false
+    },
+    {
+     "text": "Potenciar el nivel de salud de toda la población en su vida cotidiana.",
+     "isCorrect": false
+    },
+    {
+     "text": "Diagnosticar y tratar de forma precoz para limitar el desarrollo de la dolencia y reducir el riesgo de recurrencia y secuelas.",
+     "isCorrect": true
+    }
+   ]
+  },
+  {
+   "text": "En el Modelo de enfermería de Dorothea Orem, de los siguientes sistemas ¿Cuál pertenecería a su Sistema de Enfermería?",
+   "options": [
+    {
+     "text": "Sistemas de Enfermería parcialmente compensadores.",
+     "isCorrect": true
+    },
+    {
+     "text": "Sistema de enfermería totalmente descompensador.",
+     "isCorrect": false
+    },
+    {
+     "text": "Sistema de enfermería parcialmente descompensador.",
+     "isCorrect": false
+    },
+    {
+     "text": "Sistema de enfermería de apoyo laboral.",
+     "isCorrect": false
+    }
+   ]
+  },
+  {
+   "text": "Como norma general, La Zona Básica de Salud abarcará a una población comprendida entre:",
+   "options": [
+    {
+     "text": "Los 2.000 y los 15.000 habitantes.",
+     "isCorrect": false
+    },
+    {
+     "text": "Los 3.000 y los 20.000 habitantes.",
+     "isCorrect": false
+    },
+    {
+     "text": "Los 5.000 y los 25.000 habitantes.",
+     "isCorrect": true
+    },
+    {
+     "text": "Los 10.000 y los 30.000 habitantes.",
+     "isCorrect": false
+    }
+   ]
+  },
+  {
+   "text": "Según la descripción del modelo de Dorothea Orem, presenta su Teoría de enfermería del déficit de autocuidado como una teoría general basándose en otras teorías relacionadas. ¿Cuáles son? Señala la correcta.",
+   "options": [
+    {
+     "text": "Teoría del auto cuidado.",
+     "isCorrect": false
+    },
+    {
+     "text": "Teoría del déficit del autocuidado.",
+     "isCorrect": false
+    },
+    {
+     "text": "Teoría de sistemas de enfermería.",
+     "isCorrect": false
+    },
+    {
+     "text": "Todas son correctas.",
+     "isCorrect": true
+    }
+   ]
+  },
+  {
+   "text": "¿De quién depende funcionalmente el Equipo de Atención Primaria?",
+   "options": [
+    {
+     "text": "De un Coordinador Médico.",
+     "isCorrect": true
+    },
+    {
+     "text": "Del director Médico del Centro Sanitario.",
+     "isCorrect": false
+    },
+    {
+     "text": "Del Jefe Sanitario de la Zona.",
+     "isCorrect": false
+    },
+    {
+     "text": "Del Director Técnico del Distrito Sanitario.",
+     "isCorrect": false
+    }
+   ]
+  },
+  {
+   "text": "¿Cuál de los siguientes enunciados es un objetivo de la Atención Primaria de Salud?",
+   "options": [
+    {
+     "text": "Nuevos servicios.",
+     "isCorrect": false
+    },
+    {
+     "text": "Educación Sanitaria de la población.",
+     "isCorrect": true
+    },
+    {
+     "text": "Nuevos centros de Atención Primaria.",
+     "isCorrect": false
+    },
+    {
+     "text": "Rehabilitación.",
+     "isCorrect": false
+    }
+   ]
+  },
+  {
+   "text": "En la prevención de la carie dental, la información a la población escolar sobre la higiene bucal será una actuación de:",
+   "options": [
+    {
+     "text": "Prevención Primaria.",
+     "isCorrect": true
+    },
+    {
+     "text": "Prevención secundaria.",
+     "isCorrect": false
+    },
+    {
+     "text": "Prevención terciaria.",
+     "isCorrect": false
+    },
+    {
+     "text": "Prevención cuaternaria.",
+     "isCorrect": false
+    }
+   ]
+  },
+  {
+   "text": "La falta de higiene en el paciente puede provocar:",
+   "options": [
+    {
+     "text": "Suciedad en el cuerpo.",
+     "isCorrect": false
+    },
+    {
+     "text": "Infecciones.",
+     "isCorrect": false
+    },
+    {
+     "text": "Enfermedad.",
+     "isCorrect": false
+    },
+    {
+     "text": "Todas son correctas.",
+     "isCorrect": true
+    }
+   ]
+  },
+  {
+   "text": "Para hacer el baño en cama el Auxiliar de Enfermería debe:",
+   "options": [
+    {
+     "text": "Lavarse las manos previamente.",
+     "isCorrect": true
+    },
+    {
+     "text": "El aseo se realiza en todo el cuerpo al mismo tiempo.",
+     "isCorrect": false
+    },
+    {
+     "text": "No se retira la colcha.",
+     "isCorrect": false
+    },
+    {
+     "text": "No se tapa al enfermo.",
+     "isCorrect": false
+    }
+   ]
+  },
+  {
+   "text": "En el recién nacido, una vez se desprenda el cordón umbilical. Señala la correcta:",
+   "options": [
+    {
+     "text": "El baño se podrá realizar cada 2 días.",
+     "isCorrect": false
+    },
+    {
+     "text": "El baño será diario, sumergiendo al niño en agua a 37ºC.",
+     "isCorrect": true
+    },
+    {
+     "text": "La duración del baño será de 2 minutos como máximo.",
+     "isCorrect": false
+    },
+    {
+     "text": "Todas son correctas.",
+     "isCorrect": false
+    }
+   ]
+  },
+  {
+   "text": "Dentro del material necesario para la higiene bucal en el enfermo consciente, se encuentra:",
+   "options": [
+    {
+     "text": "Cepillo y seda dental.",
+     "isCorrect": false
+    },
+    {
+     "text": "Solución antiséptica.",
+     "isCorrect": false
+    },
+    {
+     "text": "Batea.",
+     "isCorrect": false
+    },
+    {
+     "text": "Todas son correctas.",
+     "isCorrect": true
+    }
+   ]
+  },
+  {
+   "text": "La posición de Fowler es cuando:",
+   "options": [
+    {
+     "text": "El paciente está semisentado formando un ángulo de 45º, las piernas ligeramente flexionadas y los pies en flexión dorsal.",
+     "isCorrect": true
+    },
+    {
+     "text": "Se acerca al paciente al lateral de la cama en Decúbito supino, de forma que la cabeza quede colgando fuera de la cama y los brazos extendidos a lo largo del cuerpo.",
+     "isCorrect": false
+    },
+    {
+     "text": "Se coloca el paciente en el centro de la cama, con los brazos extendidos a lo largo del cuerpo.",
+     "isCorrect": false
+    },
+    {
+     "text": "Ninguna de las respuestas anteriores es correcta.",
+     "isCorrect": false
+    }
+   ]
+  },
+  {
+   "text": "Artículo 34. Derechos de participación y representación de, de la Ley 31/1995 de Prevención de Riesgos Laborales. Señale la opción CORRECTA:",
+   "options": [
+    {
+     "text": "Los trabajadores tienen derecho a participar en la empresa en las cuestiones relacionadas con la prevención de riesgos en el trabajo.",
+     "isCorrect": false
+    },
+    {
+     "text": "En las empresas o centros de trabajo que cuenten con seis o más trabajadores, la participación de éstos se canalizará a través de sus representantes y de la representación especializada que se regula en este capítulo.",
+     "isCorrect": false
+    },
+    {
+     "text": "A los Comités de Empresa, a los Delegados de Personal y a los representantes sindicales les corresponde la defensa de los intereses de los trabajadores en materia de prevención de riesgos en el trabajo.",
+     "isCorrect": false
+    },
+    {
+     "text": "Todas las respuestas son correctas.",
+     "isCorrect": true
+    }
+   ]
+  },
+  {
+   "text": "Una finalidad general de la higiene y aseo del paciente es:",
+   "options": [
+    {
+     "text": "Para la higiene en la parte posterior de su cuerpo se les debe colocar en prono.",
+     "isCorrect": false
+    },
+    {
+     "text": "Estimular la circulación sanguínea.",
+     "isCorrect": true
+    },
+    {
+     "text": "La temperatura adecuada del agua para el baño debe ser entre 33-35ºC.",
+     "isCorrect": false
+    },
+    {
+     "text": "En los pacientes tetrapléjicos, la higiene la realizan los familiares.",
+     "isCorrect": false
+    }
+   ]
+  },
+  {
+   "text": "En el aseo de los pies:",
+   "options": [
+    {
+     "text": "Las uñas se recortan después del lavado.",
+     "isCorrect": true
+    },
+    {
+     "text": "Se debe realizar con un máximo de 4 personas.",
+     "isCorrect": false
+    },
+    {
+     "text": "Se debe hacer días alternos.",
+     "isCorrect": false
+    },
+    {
+     "text": "Colocar al paciente de lateral.",
+     "isCorrect": false
+    }
+   ]
+  },
+  {
+   "text": "La pieza de lencería que se puede utilizar para desplazar al paciente en la cama ¿se llama?:",
+   "options": [
+    {
+     "text": "Sábana encimera.",
+     "isCorrect": false
+    },
+    {
+     "text": "Cubrecolchón.",
+     "isCorrect": false
+    },
+    {
+     "text": "Entremetida.",
+     "isCorrect": true
+    },
+    {
+     "text": "Sábana bajera.",
+     "isCorrect": false
+    }
+   ]
+  },
+  {
+   "text": "En el Recién Nacido. Señala la correcta:",
+   "options": [
+    {
+     "text": "El baño de inmersión no se hace hasta que no se desprenda el cordón umbilical.",
+     "isCorrect": true
+    },
+    {
+     "text": "El jabón ha de ser de pH alcalino.",
+     "isCorrect": false
+    },
+    {
+     "text": "La temperatura del agua durante el baño debería ser de 33ºC.",
+     "isCorrect": false
+    },
+    {
+     "text": "Limpiarle al niño, los oídos y las fosas nasales con agua oxigenada.",
+     "isCorrect": false
+    }
+   ]
+  },
+  {
+   "text": "Respecto a la higiene del cordón umbilical:",
+   "options": [
+    {
+     "text": "Aproximadamente se desprende a la semana o 10 días de vida.",
+     "isCorrect": false
+    },
+    {
+     "text": "Se debe mantener limpio y seco en todo momento.",
+     "isCorrect": false
+    },
+    {
+     "text": "Se debe lavar las manos antes de su cuidado.",
+     "isCorrect": false
+    },
+    {
+     "text": "Todas son correctas.",
+     "isCorrect": true
+    }
+   ]
+  },
+  {
+   "text": "En lo que respecta a la higiene del paciente inconsciente, el material necesario es:",
+   "options": [
+    {
+     "text": "Depresor lingual.",
+     "isCorrect": false
+    },
+    {
+     "text": "Riñonera.",
+     "isCorrect": false
+    },
+    {
+     "text": "Pinzas de Kocher.",
+     "isCorrect": false
+    },
+    {
+     "text": "Todas son correctas.",
+     "isCorrect": true
+    }
+   ]
+  },
+  {
+   "text": "En la higiene del paciente con politraumatismo y fracturas:",
+   "options": [
+    {
+     "text": "Realizar la higiene sin perder la alineación de las fracturas.",
+     "isCorrect": false
+    },
+    {
+     "text": "En pacientes tetrapléjicos no se les debe girar en decúbito lateral, sino levantarlos en bloque para la higiene posterior.",
+     "isCorrect": false
+    },
+    {
+     "text": "La férula en la que se apoya el miembro fraccionado no se retirará.",
+     "isCorrect": false
+    },
+    {
+     "text": "Todas anteriores son correctas.",
+     "isCorrect": true
+    }
+   ]
+  },
+  {
+   "text": "El colchón alternating se utiliza:",
+   "options": [
+    {
+     "text": "Para prevenir las úlceras de presión.",
+     "isCorrect": true
+    },
+    {
+     "text": "En pacientes fracturados.",
+     "isCorrect": false
+    },
+    {
+     "text": "Para enfermos pulmonares.",
+     "isCorrect": false
+    },
+    {
+     "text": "Para enfermos renales.",
+     "isCorrect": false
+    }
+   ]
+  },
+  {
+   "text": "¿Cómo se denomina el marco que posee la cama ortopédica de Judet cuya finalidad es la de sujetar las poleas?",
+   "options": [
+    {
+     "text": "Marco electrocircular.",
+     "isCorrect": false
+    },
+    {
+     "text": "Marco de balkan.",
+     "isCorrect": true
+    },
+    {
+     "text": "Marco de Judet.",
+     "isCorrect": false
+    },
+    {
+     "text": "Marco de Stroms.",
+     "isCorrect": false
+    }
+   ]
+  },
+  {
+   "text": "La cama más indicada para politraumatizados se denomina:",
+   "options": [
+    {
+     "text": "Ortopédica.",
+     "isCorrect": false
+    },
+    {
+     "text": "Electrocircular.",
+     "isCorrect": true
+    },
+    {
+     "text": "De levitación.",
+     "isCorrect": false
+    },
+    {
+     "text": "Roto-test.",
+     "isCorrect": false
+    }
+   ]
+  },
+  {
+   "text": "El abdomen se divide en 9 cuadrantes. ¿Cómo se llama el cuadrante medio central?",
+   "options": [
+    {
+     "text": "Hipocondrio.",
+     "isCorrect": false
+    },
+    {
+     "text": "Vacío renal.",
+     "isCorrect": false
+    },
+    {
+     "text": "Región iliaca derecha.",
+     "isCorrect": false
+    },
+    {
+     "text": "Zona periumbilical.",
+     "isCorrect": true
+    }
+   ]
+  },
+  {
+   "text": "El movimiento que implica un alejamiento del plano medio se denomina:",
+   "options": [
+    {
+     "text": "Abducción.",
+     "isCorrect": true
+    },
+    {
+     "text": "Aducción.",
+     "isCorrect": false
+    },
+    {
+     "text": "Inversión.",
+     "isCorrect": false
+    },
+    {
+     "text": "Circunducción.",
+     "isCorrect": false
+    }
+   ]
+  },
+  {
+   "text": "La temperatura ambiental recomendada para la unidad del paciente es, en grados centígrados:",
+   "options": [
+    {
+     "text": "30-32 grados.",
+     "isCorrect": false
+    },
+    {
+     "text": "26-27 grados.",
+     "isCorrect": false
+    },
+    {
+     "text": "20-22 grados.",
+     "isCorrect": true
+    },
+    {
+     "text": "18-20 grados.",
+     "isCorrect": false
+    }
+   ]
+  },
+  {
+   "text": "Para levantar a un paciente de 55kg tras un largo periodo de tiempo en la cama, y sentarlo en un sillón, ¿Qué indican los procedimientos como actuación recomendable?",
+   "options": [
+    {
+     "text": "Utilizar la grúa.",
+     "isCorrect": false
+    },
+    {
+     "text": "Levantarlo en bandeja entre 4 personas.",
+     "isCorrect": false
+    },
+    {
+     "text": "Sentarle en el lateral de la cama e inmediatamente colocarlo en el sillón para que no se caiga.",
+     "isCorrect": false
+    },
+    {
+     "text": "Sentarle en el borde de la cama con sus piernas entre las nuestras y asegurarse de que no se marea antes de moverlo.",
+     "isCorrect": true
+    }
+   ]
+  },
+  {
+   "text": "La posición intermedia entre el decúbito prono y el decúbito lateral se denomina:",
+   "options": [
+    {
+     "text": "Posición de Roser.",
+     "isCorrect": false
+    },
+    {
+     "text": "Fowler.",
+     "isCorrect": false
+    },
+    {
+     "text": "Decúbito supino.",
+     "isCorrect": false
+    },
+    {
+     "text": "SIMS.",
+     "isCorrect": true
+    }
+   ]
+  },
+  {
+   "text": "Una de las características de la cama hospitalaria es:",
+   "options": [
+    {
+     "text": "Dimensiones Estándar ancho: 110cm.",
+     "isCorrect": false
+    },
+    {
+     "text": "Colocada perfectamente debajo de una ventana.",
+     "isCorrect": false
+    },
+    {
+     "text": "Los colchones son generalmente duros.",
+     "isCorrect": true
+    },
+    {
+     "text": "Accesible por sus 4 lados.",
+     "isCorrect": false
+    }
+   ]
+  },
+  {
+   "text": "Señale la opción incorrecta en la técnica para hacer la cama ocupada.",
+   "options": [
+    {
+     "text": "Siempre que sea posible, se debe realizar entre 2 personas.",
+     "isCorrect": false
+    },
+    {
+     "text": "Se debe preservar la intimidad del paciente en todo momento.",
+     "isCorrect": false
+    },
+    {
+     "text": "Debemos favorecer las corrientes de aire durante la técnica.",
+     "isCorrect": true
+    },
+    {
+     "text": "Preferiblemente se debe hacer con la cama en horizontal.",
+     "isCorrect": false
+    }
+   ]
+  },
+  {
+   "text": "Las indicaciones más frecuentes para el uso de drenajes son: Señale la incorrecta.",
+   "options": [
+    {
+     "text": "Grandes quemados.",
+     "isCorrect": true
+    },
+    {
+     "text": "Abscesos.",
+     "isCorrect": false
+    },
+    {
+     "text": "Lesiones traumáticas.",
+     "isCorrect": false
+    },
+    {
+     "text": "Tras una cirugía de gran resección.",
+     "isCorrect": false
+    }
+   ]
+  },
+  {
+   "text": "Son complicaciones de un drenaje obstruido...",
+   "options": [
+    {
+     "text": "Molestias y dolor, infecciones, inflamación de la zona.",
+     "isCorrect": true
+    },
+    {
+     "text": "Infecciones, líquidos, seroso, úlceras de presión.",
+     "isCorrect": false
+    },
+    {
+     "text": "Líquido seroso, existencia de punto de sutura.",
+     "isCorrect": false
+    },
+    {
+     "text": "Ausencia de líquido, desgarros.",
+     "isCorrect": false
+    }
+   ]
+  },
+  {
+   "text": "Señale la opción incorrecta:",
+   "options": [
+    {
+     "text": "La posición Mahometana también se conoce como Genupectoral.",
+     "isCorrect": false
+    },
+    {
+     "text": "La posición de Sims también se conoce como posición de seguridad.",
+     "isCorrect": false
+    },
+    {
+     "text": "En la posición trendelenburg los pies están más cerca del suelo que de la cabeza.",
+     "isCorrect": true
+    },
+    {
+     "text": "La posición de litotomía es la más utilizada para dar a luz.",
+     "isCorrect": false
+    }
+   ]
+  },
+  {
+   "text": "A la hora de preparar al paciente para una exploración médica, tendremos en cuenta los siguientes aspectos excepto:",
+   "options": [
+    {
+     "text": "Cuidar la temperatura ambiente de la habitación donde se lleva a cabo.",
+     "isCorrect": false
+    },
+    {
+     "text": "Informar previamente al paciente de que no se debe orinar horas antes de la exploración.",
+     "isCorrect": true
+    },
+    {
+     "text": "Medir las constantes vitales antes de la exploración.",
+     "isCorrect": false
+    },
+    {
+     "text": "Cubrir su cuerpo con una sábana.",
+     "isCorrect": false
+    }
+   ]
+  },
+  {
+   "text": "Para la medición de la capacidad respiratoria de los pulmones, se utiliza:",
+   "options": [
+    {
+     "text": "Tensiómetro.",
+     "isCorrect": false
+    },
+    {
+     "text": "Ecografía.",
+     "isCorrect": false
+    },
+    {
+     "text": "PH-metría.",
+     "isCorrect": false
+    },
+    {
+     "text": "Espirometría simple.",
+     "isCorrect": true
+    }
+   ]
+  },
+  {
+   "text": "Las exploraciones radiológicas con contraste de la vejiga urinaria, se denominan:",
+   "options": [
+    {
+     "text": "Urinocultivo.",
+     "isCorrect": false
+    },
+    {
+     "text": "Cistografía retrógrada.",
+     "isCorrect": true
+    },
+    {
+     "text": "Tomografía axial computarizada.",
+     "isCorrect": false
+    },
+    {
+     "text": "Gammagrafía.",
+     "isCorrect": false
+    }
+   ]
+  },
+  {
+   "text": "Dentro de las necesidades básicas están:",
+   "options": [
+    {
+     "text": "Comer y beber adecuadamente.",
+     "isCorrect": false
+    },
+    {
+     "text": "Dormir y descansar.",
+     "isCorrect": false
+    },
+    {
+     "text": "Participar en actividades recreativas.",
+     "isCorrect": false
+    },
+    {
+     "text": "Todas son correctas.",
+     "isCorrect": true
+    }
+   ]
+  },
+  {
+   "text": "¿Cuál de los siguientes síntomas constituye una complicación post operatoria de la raquianestesia?:",
+   "options": [
+    {
+     "text": "Pirosis.",
+     "isCorrect": false
+    },
+    {
+     "text": "Ingurgitación.",
+     "isCorrect": false
+    },
+    {
+     "text": "Reflujo gastroesofágico.",
+     "isCorrect": false
+    },
+    {
+     "text": "Cefaleas.",
+     "isCorrect": true
+    }
+   ]
+  },
+  {
+   "text": "¿A qué temperatura debe estar el agua para la limpieza del instrumental quirúrgico?:",
+   "options": [
+    {
+     "text": "40-50 grados.",
+     "isCorrect": true
+    },
+    {
+     "text": "30-40 grados.",
+     "isCorrect": false
+    },
+    {
+     "text": "20-30 grados.",
+     "isCorrect": false
+    },
+    {
+     "text": "10-30 grados.",
+     "isCorrect": false
+    }
+   ]
+  },
+  {
+   "text": "La fase que antecede a la intervención y comienza con la preparación del paciente se denomina:",
+   "options": [
+    {
+     "text": "Preoperatorio.",
+     "isCorrect": true
+    },
+    {
+     "text": "Transoperatorio u operatorio.",
+     "isCorrect": false
+    },
+    {
+     "text": "Postoperatorio.",
+     "isCorrect": false
+    },
+    {
+     "text": "Ninguna de las anteriores es correcta.",
+     "isCorrect": false
+    }
+   ]
+  },
+  {
+   "text": "Señale la respuesta correcta. La técnica de rasurado:",
+   "options": [
+    {
+     "text": "Sólo se realiza en mujeres.",
+     "isCorrect": false
+    },
+    {
+     "text": "Es imprescindible para los pacientes a los que se va a realizar una gastroscopia.",
+     "isCorrect": false
+    },
+    {
+     "text": "Es muy importante para evitar el riesgo de infección en una herida quirúrgica.",
+     "isCorrect": true
+    },
+    {
+     "text": "Se realiza días antes de la intervención.",
+     "isCorrect": false
+    }
+   ]
+  },
+  {
+   "text": "Con respecto a los cuidados preoperatorios del paciente, señale la incorrecta:",
+   "options": [
+    {
+     "text": "Administrar enema, generalmente antes de las cirugías digestivas.",
+     "isCorrect": false
+    },
+    {
+     "text": "Se debe realizar higiene corporal completa.",
+     "isCorrect": false
+    },
+    {
+     "text": "Se realizan en la sala de despertar.",
+     "isCorrect": true
+    },
+    {
+     "text": "Los Técnicos Auxiliares de Enfermería ayudarán al enfermo a que se encuentre tranquilo.",
+     "isCorrect": false
+    }
+   ]
+  },
+  {
+   "text": "¿Las pinzas que sujetan los campos estériles que cubren al paciente entre sí, limitando la zona o campo operatorio son?:",
+   "options": [
+    {
+     "text": "Pinzas de Kelly.",
+     "isCorrect": false
+    },
+    {
+     "text": "Mosquito.",
+     "isCorrect": false
+    },
+    {
+     "text": "Pinzas de talla o campo.",
+     "isCorrect": true
+    },
+    {
+     "text": "Pinzas de Mayo.",
+     "isCorrect": false
+    }
+   ]
+  },
+  {
+   "text": "La desinfección química no se realiza mediante:",
+   "options": [
+    {
+     "text": "Inmersión.",
+     "isCorrect": false
+    },
+    {
+     "text": "Pulverización.",
+     "isCorrect": false
+    },
+    {
+     "text": "Radiación.",
+     "isCorrect": true
+    },
+    {
+     "text": "Vaporización.",
+     "isCorrect": false
+    }
+   ]
+  },
+  {
+   "text": "Para la desinfección de piel y mucosas no está indicado el uso de:",
+   "options": [
+    {
+     "text": "La clorhexidina.",
+     "isCorrect": false
+    },
+    {
+     "text": "Aldehídos.",
+     "isCorrect": true
+    },
+    {
+     "text": "Compuestos yodados.",
+     "isCorrect": false
+    },
+    {
+     "text": "Alcohol etílico al 70%.",
+     "isCorrect": false
+    }
+   ]
+  },
+  {
+   "text": "Son condiciones de un buen desinfectante:",
+   "options": [
+    {
+     "text": "Baja actividad residual, económico, inodoro.",
+     "isCorrect": false
+    },
+    {
+     "text": "Amplio espectro, olor penetrante, económico.",
+     "isCorrect": false
+    },
+    {
+     "text": "Amplio espectro, acción inmediata, inodoro.",
+     "isCorrect": true
+    },
+    {
+     "text": "Acción inmediata y baja actividad residual.",
+     "isCorrect": false
+    }
+   ]
+  },
+  {
+   "text": "¿Qué capa de la pared del corazón lo envuelve externamente?",
+   "options": [
+    {
+     "text": "Pericardio.",
+     "isCorrect": true
+    },
+    {
+     "text": "Endocardio.",
+     "isCorrect": false
+    },
+    {
+     "text": "Miocardio.",
+     "isCorrect": false
+    },
+    {
+     "text": "Ninguna de las anteriores es correcta.",
+     "isCorrect": false
+    }
+   ]
+  },
+  {
+   "text": "¿Cuál de las siguientes NO es un material necesario para medir la TA?:",
+   "options": [
+    {
+     "text": "Silla.",
+     "isCorrect": false
+    },
+    {
+     "text": "Fonendoscopio.",
+     "isCorrect": false
+    },
+    {
+     "text": "Termómetro",
+     "isCorrect": true
+    },
+    {
+     "text": "Esfigmomanómetro.",
+     "isCorrect": false
+    }
+   ]
+  },
+  {
+   "text": "Valores entre 37,1 ºC-37,9ºC se considera:",
+   "options": [
+    {
+     "text": "Hipotermia.",
+     "isCorrect": false
+    },
+    {
+     "text": "Febrícula o décimas de fiebre.",
+     "isCorrect": true
+    },
+    {
+     "text": "Hipertermia.",
+     "isCorrect": false
+    },
+    {
+     "text": "Temperatura normal.",
+     "isCorrect": false
+    }
+   ]
+  },
+  {
+   "text": "El control de la temperatura se produce en:",
+   "options": [
+    {
+     "text": "El bulbo raquídeo.",
+     "isCorrect": false
+    },
+    {
+     "text": "El hipotálamo.",
+     "isCorrect": true
+    },
+    {
+     "text": "Sistema nervioso periférico.",
+     "isCorrect": false
+    },
+    {
+     "text": "Ninguna es correcta.",
+     "isCorrect": false
+    }
+   ]
+  },
+  {
+   "text": "Las pérdidas de líquidos se realizan a través de:",
+   "options": [
+    {
+     "text": "Orina y heces.",
+     "isCorrect": false
+    },
+    {
+     "text": "Vía respiratoria.",
+     "isCorrect": false
+    },
+    {
+     "text": "Piel (sudor y transpiración).",
+     "isCorrect": false
+    },
+    {
+     "text": "Todas son correctas.",
+     "isCorrect": true
+    }
+   ]
+  },
+  {
+   "text": "La gráfica de hospitalización es un documento:",
+   "options": [
+    {
+     "text": "Que permite recoger datos del paciente, medición de sus constantes y parámetros como la glucemia.",
+     "isCorrect": true
+    },
+    {
+     "text": "Del servicio de admisión.",
+     "isCorrect": false
+    },
+    {
+     "text": "Se mantiene guardada en el archivo cuando el paciente está hospitalizado.",
+     "isCorrect": false
+    },
+    {
+     "text": "Todas las respuestas son correctas.",
+     "isCorrect": false
+    }
+   ]
+  },
+  {
+   "text": "Llamamos constantes vitales a:",
+   "options": [
+    {
+     "text": "Temperatura, respiración, pulso, tensión arterial y presión venosa central.",
+     "isCorrect": true
+    },
+    {
+     "text": "Temperatura, respiración, tensión arterial, pulso, estado emocional y diuresis.",
+     "isCorrect": false
+    },
+    {
+     "text": "Pulso, tensión arterial, respiración y diuresis.",
+     "isCorrect": false
+    },
+    {
+     "text": "Temperatura, respiración y estado emocional.",
+     "isCorrect": false
+    }
+   ]
+  },
+  {
+   "text": "Características de las venas. Señale la incorrecta:",
+   "options": [
+    {
+     "text": "Devuelven la sangre al corazón procedente de los tejidos.",
+     "isCorrect": false
+    },
+    {
+     "text": "Conducen sangre venosa, pobre en O2 y rica en CO2.",
+     "isCorrect": false
+    },
+    {
+     "text": "Son los vasos sanguíneos de menos calibre.",
+     "isCorrect": true
+    },
+    {
+     "text": "Sus vasos de menor calibre se denominan vénulas.",
+     "isCorrect": false
+    }
+   ]
+  },
+  {
+   "text": "Con respecto a las frecuencias del pulso.",
+   "options": [
+    {
+     "text": "Se considera bradicardia o frecuencias<100lpm.",
+     "isCorrect": false
+    },
+    {
+     "text": "Se considera taquicardia a frecuencias>40lpm.",
+     "isCorrect": false
+    },
+    {
+     "text": "Frecuencia normal 60-80lpm.",
+     "isCorrect": true
+    },
+    {
+     "text": "Frecuencia normal 40-55lpm.",
+     "isCorrect": false
+    }
+   ]
+  },
+  {
+   "text": "El aporte de líquidos al organismo no se produce a través:",
+   "options": [
+    {
+     "text": "Los alimentos.",
+     "isCorrect": false
+    },
+    {
+     "text": "Las bebidas.",
+     "isCorrect": false
+    },
+    {
+     "text": "La transpiración.",
+     "isCorrect": true
+    },
+    {
+     "text": "Producción endógena de agua.",
+     "isCorrect": false
+    }
+   ]
+  },
+  {
+   "text": "Son factores que afectan al equilibrio de líquidos y electrólitos.",
+   "options": [
+    {
+     "text": "Ingestión insuficiente.",
+     "isCorrect": false
+    },
+    {
+     "text": "Edad.",
+     "isCorrect": false
+    },
+    {
+     "text": "Estrés.",
+     "isCorrect": false
+    },
+    {
+     "text": "Todas son ciertas.",
+     "isCorrect": true
+    }
+   ]
+  },
+  {
+   "text": "No se considera una patología de los vasos sanguíneos:",
+   "options": [
+    {
+     "text": "Trombosis.",
+     "isCorrect": false
+    },
+    {
+     "text": "Aneurisma.",
+     "isCorrect": false
+    },
+    {
+     "text": "Pericarditis.",
+     "isCorrect": true
+    },
+    {
+     "text": "Arteriosclerosis",
+     "isCorrect": false
+    }
+   ]
+  },
+  {
+   "text": "¿Cuál de los siguientes datos NO se considera factor influyente en la temperatura corporal?",
+   "options": [
+    {
+     "text": "Frecuencia cardiaca.",
+     "isCorrect": true
+    },
+    {
+     "text": "Hora del día.",
+     "isCorrect": false
+    },
+    {
+     "text": "Influencia hormonal.",
+     "isCorrect": false
+    },
+    {
+     "text": "Edad.",
+     "isCorrect": false
+    }
+   ]
+  },
+  {
+   "text": "Aspectos a revisar en el examen físico del sistema respiratorio son:",
+   "options": [
+    {
+     "text": "Ruidos respiratorios.",
+     "isCorrect": false
+    },
+    {
+     "text": "Cianosis.",
+     "isCorrect": false
+    },
+    {
+     "text": "Tos, disnea.",
+     "isCorrect": false
+    },
+    {
+     "text": "Todas son correctas.",
+     "isCorrect": true
+    }
+   ]
+  },
+  {
+   "text": "Respecto a la entrevista como método de obtención de datos, señala la correcta:",
+   "options": [
+    {
+     "text": "Es el método más importante para la obtención de datos, y complementa a la observación.",
+     "isCorrect": false
+    },
+    {
+     "text": "Consiste en una conversación, previamente planificada entre el enfermero y el paciente.",
+     "isCorrect": false
+    },
+    {
+     "text": "Es un procedimiento estructurado en tres etapas",
+     "isCorrect": false
+    },
+    {
+     "text": "Todas son correctas",
+     "isCorrect": true
+    }
+   ]
+  },
+  {
+   "text": "Al engrosamiento patológico de las uñas, sobre todo en el del primer dedo del pie se denomina:",
+   "options": [
+    {
+     "text": "Onicomicosis.",
+     "isCorrect": false
+    },
+    {
+     "text": "Onicocriptosis.",
+     "isCorrect": false
+    },
+    {
+     "text": "Onicogrifosis.",
+     "isCorrect": true
+    },
+    {
+     "text": "Onicolisis.",
+     "isCorrect": false
+    }
+   ]
+  },
+  {
+   "text": "El espacio entre la piel y la uña se denomina:",
+   "options": [
+    {
+     "text": "Lúnula.",
+     "isCorrect": false
+    },
+    {
+     "text": "Cutícula.",
+     "isCorrect": false
+    },
+    {
+     "text": "Lecho ungueal.",
+     "isCorrect": true
+    },
+    {
+     "text": "Lámina ungueal.",
+     "isCorrect": false
+    }
+   ]
+  },
+  {
+   "text": "En el grado IV del coma:",
+   "options": [
+    {
+     "text": "Hay ausencia absoluta de respuesta.",
+     "isCorrect": false
+    },
+    {
+     "text": "No hay respiración espontánea.",
+     "isCorrect": false
+    },
+    {
+     "text": "El paciente tiene postura flácida con total ausencia de respuesta.",
+     "isCorrect": false
+    },
+    {
+     "text": "Todas son correctas.",
+     "isCorrect": true
+    }
+   ]
+  },
+  {
+   "text": "Son fuentes de recogida de datos:",
+   "options": [
+    {
+     "text": "El propio individuo.",
+     "isCorrect": false
+    },
+    {
+     "text": "Familia del paciente.",
+     "isCorrect": false
+    },
+    {
+     "text": "Historia clínica.",
+     "isCorrect": false
+    },
+    {
+     "text": "Todas son correctas",
+     "isCorrect": true
+    }
+   ]
+  },
+  {
+   "text": "La sarna:",
+   "options": [
+    {
+     "text": "Es conocida también como escabiosis.",
+     "isCorrect": false
+    },
+    {
+     "text": "Se debe a un ácaro.",
+     "isCorrect": false
+    },
+    {
+     "text": "Afecta sobre todo a la epidermis.",
+     "isCorrect": false
+    },
+    {
+     "text": "Todas son correctas",
+     "isCorrect": true
+    }
+   ]
+  },
+  {
+   "text": "No son signos objetivos en la toma de datos al paciente.",
+   "options": [
+    {
+     "text": "Las sensaciones del paciente.",
+     "isCorrect": true
+    },
+    {
+     "text": "Diuresis.",
+     "isCorrect": false
+    },
+    {
+     "text": "Temperatura.",
+     "isCorrect": false
+    },
+    {
+     "text": "Pústula.",
+     "isCorrect": false
+    }
+   ]
+  },
+  {
+   "text": "¿Cuál de las siguientes lesiones de la piel NO se considera una lesión primaria?",
+   "options": [
+    {
+     "text": "Ampolla.",
+     "isCorrect": false
+    },
+    {
+     "text": "Mácula.",
+     "isCorrect": false
+    },
+    {
+     "text": "Cicatriz",
+     "isCorrect": true
+    },
+    {
+     "text": "Pústula.",
+     "isCorrect": false
+    }
+   ]
+  },
+  {
+   "text": "¿Cuál de los siguientes términos no implica una frecuencia respiratoria alterada?",
+   "options": [
+    {
+     "text": "Disnea.",
+     "isCorrect": false
+    },
+    {
+     "text": "Apnea.",
+     "isCorrect": false
+    },
+    {
+     "text": "Eupnea.",
+     "isCorrect": true
+    },
+    {
+     "text": "Taquipnea.",
+     "isCorrect": false
+    }
+   ]
+  },
+  {
+   "text": "En el examen dinámico del tórax, se valorará:",
+   "options": [
+    {
+     "text": "El tipo de respiración.",
+     "isCorrect": false
+    },
+    {
+     "text": "La frecuencia respiratoria.",
+     "isCorrect": false
+    },
+    {
+     "text": "El ritmo respiratorio.",
+     "isCorrect": false
+    },
+    {
+     "text": "Todas son correctas.",
+     "isCorrect": true
+    }
+   ]
+  },
+  {
+   "text": "Con respecto al pelo, señale la incorrecta:",
+   "options": [
+    {
+     "text": "Está formado por el tallo y la raíz.",
+     "isCorrect": false
+    },
+    {
+     "text": "Consta de 3 capas: Médula, corteza y cutícula.",
+     "isCorrect": false
+    },
+    {
+     "text": "Las células de queratina del pelo determinan el color del mismo",
+     "isCorrect": true
+    },
+    {
+     "text": "La raíz del pelo se encuentra en el folículo piloso.",
+     "isCorrect": false
+    }
+   ]
+  },
+  {
+   "text": "En cuanto a las técnicas básicas para entrevistar, es cierto que:",
+   "options": [
+    {
+     "text": "Reducir barreras es una técnica no verbal.",
+     "isCorrect": true
+    },
+    {
+     "text": "La clasificación es una técnica no verbal.",
+     "isCorrect": false
+    },
+    {
+     "text": "La escucha es una técnica verbal.",
+     "isCorrect": false
+    },
+    {
+     "text": "El uso de preguntas abiertas es una técnica no verbal.",
+     "isCorrect": false
+    }
+   ]
+  },
+  {
+   "text": "¿Cuál es la cantidad de orina (diuresis) normal por 24/h emitida por un individuo de unos 75/kg de peso en condiciones normales?",
+   "options": [
+    {
+     "text": "De 1.500 a 2.000cc",
+     "isCorrect": false
+    },
+    {
+     "text": "De 800 a 1.450cc",
+     "isCorrect": false
+    },
+    {
+     "text": "De 1.200 a 1.500cc",
+     "isCorrect": true
+    },
+    {
+     "text": "Todas son correctas.",
+     "isCorrect": false
+    }
+   ]
+  },
+  {
+   "text": "Según el volumen de diuresis, ¿Cuándo hablamos de que el paciente está en anuria?",
+   "options": [
+    {
+     "text": "Cuando el volumen de diuresis es 0 ml.",
+     "isCorrect": false
+    },
+    {
+     "text": "Cuando el volumen de diuresis es inferior a 20ml/día.",
+     "isCorrect": false
+    },
+    {
+     "text": "Cuando el volumen de diuresis es inferior a 100ml/día.",
+     "isCorrect": false
+    },
+    {
+     "text": "Todas son correctas.",
+     "isCorrect": true
+    }
+   ]
+  },
+  {
+   "text": "En las deposiciones del paciente, la coloración es importante, y nos proporciona gran información, si ésta es blanquecina decimos:",
+   "options": [
+    {
+     "text": "El paciente tiene una rectorragia.",
+     "isCorrect": false
+    },
+    {
+     "text": "El paciente tiene una dieta rica en lácteos.",
+     "isCorrect": false
+    },
+    {
+     "text": "Son deposiciones acólicas.",
+     "isCorrect": true
+    },
+    {
+     "text": "Ninguna es correcta.",
+     "isCorrect": false
+    }
+   ]
+  },
+  {
+   "text": "Para realizar un sondaje nasogástrico debemos:",
+   "options": [
+    {
+     "text": "Colocamos la punta de la sonda desde la nariz hasta el estómago.",
+     "isCorrect": false
+    },
+    {
+     "text": "Colocamos la punta de la sonda desde el lóbulo de la oreja hasta el estómago.",
+     "isCorrect": false
+    },
+    {
+     "text": "Colocamos la punta de la sonda en el lóbulo de la oreja y desde allí se mide hasta la punta de la nariz y desde ésta última, hasta la altura del estómago.",
+     "isCorrect": true
+    },
+    {
+     "text": "Ninguna es correcta",
+     "isCorrect": false
+    }
+   ]
+  },
+  {
+   "text": "Sobre el sondaje rectal:",
+   "options": [
+    {
+     "text": "Para su colocación, colocaremos al paciente en posición Sims izquierda.",
+     "isCorrect": false
+    },
+    {
+     "text": "Consiste en la introducción de una sonda en el recto a través del ano.",
+     "isCorrect": false
+    },
+    {
+     "text": "Se debe dejar colocada la sonda de 20 -25 minutos.",
+     "isCorrect": false
+    },
+    {
+     "text": "Todas son correctas.",
+     "isCorrect": true
+    }
+   ]
+  },
+  {
+   "text": "La colostomía es:",
+   "options": [
+    {
+     "text": "Es el abocamiento de un sector del colon hacia el exterior, generalmente hacia la pared abdominal anterolateral, para das salida al exterior del contenido colónico (contenido fecal).",
+     "isCorrect": true
+    },
+    {
+     "text": "Es la apertura artificial del intestino delgado a la pared abdominal desembocando en un estoma o ano artificial.",
+     "isCorrect": false
+    },
+    {
+     "text": "La producción de encimas por parte del intestino grueso, cuya secreción es el moco necesario para lubricar el contenido intestinal durante su paso lento por esta porción del intestino.",
+     "isCorrect": false
+    },
+    {
+     "text": "Todas son correctas.",
+     "isCorrect": false
+    }
+   ]
+  },
+  {
+   "text": "Tipos de enemas:",
+   "options": [
+    {
+     "text": "Enema de limpieza, enema de retención, enema medicamentoso, enema nutritivo y enema opaco.",
+     "isCorrect": false
+    },
+    {
+     "text": "Enema de aseo, enema de retención, enema medicamentoso y enema baritado.",
+     "isCorrect": false
+    },
+    {
+     "text": "Enema de limpieza, enema farmacológico, enema nutritivo y enema traslúcido.",
+     "isCorrect": false
+    },
+    {
+     "text": "Enema de limpieza o evacuante, enema de retención, enema medicamentoso, enema alimenticio y enema opaco o baritado.",
+     "isCorrect": true
+    }
+   ]
+  },
+  {
+   "text": "Para el análisis sistemático de orina:",
+   "options": [
+    {
+     "text": "El recipiente de la muestra deberá ir debidamente identificado y acompañado de la petición rellenada por el TCAE.",
+     "isCorrect": false
+    },
+    {
+     "text": "Si la orina se recoge por micción espontánea se aprovecha toda la micción, no teniendo que desechar el primer chorro en ningún caso.",
+     "isCorrect": false
+    },
+    {
+     "text": "Si el exterior del recipiente se contamina, no lo tocaremos para no contaminarlo más",
+     "isCorrect": false
+    },
+    {
+     "text": "Ninguna es correcta.",
+     "isCorrect": true
+    }
+   ]
+  },
+  {
+   "text": "Existen tres tipos fundamentales de estomas. Señale la respuesta correcta.",
+   "options": [
+    {
+     "text": "Colostomía, Ileostomía y Urostomía.",
+     "isCorrect": true
+    },
+    {
+     "text": "Colostomía, Yeyunostomía y Proctrotomía.",
+     "isCorrect": false
+    },
+    {
+     "text": "Ileostomía, Urostomía y esofagostomía.",
+     "isCorrect": false
+    },
+    {
+     "text": "Cecostomía, Urostomía y Yeyunostomía.",
+     "isCorrect": false
+    }
+   ]
+  },
+  {
+   "text": "¿Qué producen las principales células del estómago?",
+   "options": [
+    {
+     "text": "Factor intrínseco.",
+     "isCorrect": false
+    },
+    {
+     "text": "CLH.",
+     "isCorrect": false
+    },
+    {
+     "text": "Pepsina.",
+     "isCorrect": true
+    },
+    {
+     "text": "Mucina.",
+     "isCorrect": false
+    }
+   ]
+  },
+  {
+   "text": "¿Qué es un coprocultivo?",
+   "options": [
+    {
+     "text": "Un estudio vírico de las heces.",
+     "isCorrect": false
+    },
+    {
+     "text": "Un estudio bacteriológico de las heces cuyo objeto es evidenciar la existencia de un germen no habitual por microscopia directa o bien por cultivo específico.",
+     "isCorrect": true
+    },
+    {
+     "text": "Es un cultivo vírico de las deposiciones líquidas cuyo objeto es evidenciar la no existencia de gérmenes vivos.",
+     "isCorrect": false
+    },
+    {
+     "text": "Todas son correctas.",
+     "isCorrect": false
+    }
+   ]
+  },
+  {
+   "text": "El estudio del sedimento de orina:",
+   "options": [
+    {
+     "text": "Se realiza al microscopio una vez evaporada.",
+     "isCorrect": false
+    },
+    {
+     "text": "Se realiza al microscopio una vez centrifugada.",
+     "isCorrect": true
+    },
+    {
+     "text": "Se hace al microscopio una vez centrifugada y evaporada.",
+     "isCorrect": false
+    },
+    {
+     "text": "Todas son correctas.",
+     "isCorrect": false
+    }
+   ]
+  },
+  {
+   "text": "¿Cuáles son los parásitos más frecuentes en las heces?",
+   "options": [
+    {
+     "text": "Helmintos y Protozoos.",
+     "isCorrect": true
+    },
+    {
+     "text": "Helmintos y Oxiuros.",
+     "isCorrect": false
+    },
+    {
+     "text": "Protozoos y Oxiuros",
+     "isCorrect": false
+    },
+    {
+     "text": "Todas son correctas.",
+     "isCorrect": false
+    }
+   ]
+  },
+  {
+   "text": "En la extracción de sangre venosa: Señale la respuesta correcta.",
+   "options": [
+    {
+     "text": "Las venas más utilizadas para una punción son la vena radial, la vena cefálica y la vena femoral.",
+     "isCorrect": false
+    },
+    {
+     "text": "Las venas más utilizadas para una punción son la vena femoral, la vena radial y la vena cefálica.",
+     "isCorrect": false
+    },
+    {
+     "text": "Las venas más utilizadas para una punción son la vena cubital, la vena cefálica y la vena basílica.",
+     "isCorrect": true
+    },
+    {
+     "text": "Ninguna es correcta.",
+     "isCorrect": false
+    }
+   ]
+  },
+  {
+   "text": "Fundamento del Hemocultivo.",
+   "options": [
+    {
+     "text": "Extracción de sangre para cultivo que se realiza a los pacientes con fiebre superior a 38ºc durante como mínimo una semana de evolución.",
+     "isCorrect": false
+    },
+    {
+     "text": "Extracción de sangre para su cultivo que se realiza a los pacientes con fiebre superior a 38ºc durante como mínimo 10 días de evolución.",
+     "isCorrect": false
+    },
+    {
+     "text": "Extracción de sangre para cultivo que se suele realizar cuando el paciente tiene un pico febril y se quiere detectar el microorganismo causante.",
+     "isCorrect": true
+    },
+    {
+     "text": "Todas son correctas.",
+     "isCorrect": false
+    }
+   ]
+  },
+  {
+   "text": "En el transporte de la muestra para hemocultivo, debemos tener en cuenta; Señalar la respuesta incorrecta.",
+   "options": [
+    {
+     "text": "Una vez obtenidas las 3 muestras se envían al laboratorio.",
+     "isCorrect": false
+    },
+    {
+     "text": "Si no se envían inmediatamente al laboratorio se mantendrán en el refrigerador a 4-6ºC)",
+     "isCorrect": true
+    },
+    {
+     "text": "Se mantendrán en una estufa de cultivo a 36-37ºC) Si no se envían inmediatamente al laboratorio.",
+     "isCorrect": false
+    },
+    {
+     "text": "Nunca se refrigerarán.",
+     "isCorrect": false
+    }
+   ]
+  },
+  {
+   "text": "Lugares donde se realiza la punción cutánea.",
+   "options": [
+    {
+     "text": "Talón y lóbulo de la oreja.",
+     "isCorrect": false
+    },
+    {
+     "text": "Talón y yema de los dedos.",
+     "isCorrect": false
+    },
+    {
+     "text": "Lóbulo de la oreja y yema de los dedos.",
+     "isCorrect": false
+    },
+    {
+     "text": "Todas son correctas.",
+     "isCorrect": true
+    }
+   ]
+  },
+  {
+   "text": "En el transporte de las muestras de esputo, debemos tener en cuenta: Elegir la respuesta correcta.",
+   "options": [
+    {
+     "text": "Si la muestra no es enviada en un periodo inferior a 4/horas al laboratorio, debe conservarla el propio paciente.",
+     "isCorrect": false
+    },
+    {
+     "text": "Si la muestra no es enviada en un periodo inferior a 4/horas al laboratorio, se conservará en estufa a una temperatura de 36-37ºC)",
+     "isCorrect": false
+    },
+    {
+     "text": "Si la muestra no es enviada en un periodo de tiempo inferior a 2/horas al laboratorio, debe conservarse en la nevera a 4ºC)",
+     "isCorrect": true
+    },
+    {
+     "text": "Ninguna es correcta.",
+     "isCorrect": false
+    }
+   ]
+  },
+  {
+   "text": "En los exudados de abscesos. Señale la respuesta incorrecta.",
+   "options": [
+    {
+     "text": "Se desinfecta la zona con antiséptico, (tipo Betadine), con movimientos circulares desde la zona donde se va a realizar la punción hacia afuera.",
+     "isCorrect": false
+    },
+    {
+     "text": "No es preciso material estéril.",
+     "isCorrect": true
+    },
+    {
+     "text": "Se punciona y aspira de forma aséptica.",
+     "isCorrect": false
+    },
+    {
+     "text": "Es necesario un volumen de entre 5-10ml.",
+     "isCorrect": false
+    }
+   ]
+  },
+  {
+   "text": "Los residuos del grupo III (Sanitarios específicos o de bioriesgo):",
+   "options": [
+    {
+     "text": "Los residuos de sangre y hemoderivados y otros residuos líquidos del grupo III, se recogerán en recipientes rígidos.",
+     "isCorrect": false
+    },
+    {
+     "text": "Los residuos cortantes y punzantes se eliminarán en recipientes rígidos.",
+     "isCorrect": false
+    },
+    {
+     "text": "Se recogerán en recipientes rígidos o semirrígidos o en bolsas amarillas.",
+     "isCorrect": false
+    },
+    {
+     "text": "Todas son correctas.",
+     "isCorrect": true
+    }
+   ]
+  },
+  {
+   "text": "Transporte interno de los residuos sanitarios.",
+   "options": [
+    {
+     "text": "La retirada de los residuos sanitarios para su posterior almacenamiento intermedio o final, se realizará con una frecuencia semanal.",
+     "isCorrect": false
+    },
+    {
+     "text": "La retirada de los residuos sanitarios para su posterior almacenamiento intermedio o final, se realizará con una frecuencia quincenal.",
+     "isCorrect": false
+    },
+    {
+     "text": "La retirada de los residuos sanitarios para su posterior almacenamiento intermedio o final se realizará con una frecuencia diaria.",
+     "isCorrect": true
+    },
+    {
+     "text": "Ninguna es correcta.",
+     "isCorrect": false
+    }
+   ]
+  },
+  {
+   "text": "¿A qué se conoce como residuos biosanitarios?",
+   "options": [
+    {
+     "text": "A los residuos compuestos por restos de medicamentos citotóxicos y todo el material que haya estado en contacto con ellos.",
+     "isCorrect": false
+    },
+    {
+     "text": "A todos los residuos cualquiera que sea su estado, no generados en centros sanitarios incluidos envases.",
+     "isCorrect": false
+    },
+    {
+     "text": "A aquellos residuos específicos de la actividad sanitaria, potencialmente contaminados con sustancias biológicas al haber entrado en contacto con pacientes.",
+     "isCorrect": true
+    },
+    {
+     "text": "Ninguna es correcta.",
+     "isCorrect": false
+    }
+   ]
+  },
+  {
+   "text": "El lugar de la punción para la recogida de muestra del líquido cefalorraquídeo, se realizará entra las vértebras...",
+   "options": [
+    {
+     "text": "L1, L2 y L3.",
+     "isCorrect": false
+    },
+    {
+     "text": "L4, L5 y L6.",
+     "isCorrect": false
+    },
+    {
+     "text": "L2, L3 y L4.",
+     "isCorrect": false
+    },
+    {
+     "text": "L3, L4 y L5.",
+     "isCorrect": true
+    }
+   ]
+  },
+  {
+   "text": "En el cambio de ropa a un enfermo:",
+   "options": [
+    {
+     "text": "Se realiza cuando duerme.",
+     "isCorrect": false
+    },
+    {
+     "text": "Nos ayudamos de los familiares.",
+     "isCorrect": false
+    },
+    {
+     "text": "No se puede tardar más de 10 minutos.",
+     "isCorrect": false
+    },
+    {
+     "text": "Se procede a la abertura del camisón y se saca la manga del brazo libre del sistema de suero.",
+     "isCorrect": true
+    }
+   ]
+  },
+  {
+   "text": "¿Cómo se denominan a las bacterias que pueden crecer sin la presencia del Oxígeno?",
+   "options": [
+    {
+     "text": "Aerobias.",
+     "isCorrect": false
+    },
+    {
+     "text": "Saprófitas.",
+     "isCorrect": false
+    },
+    {
+     "text": "Hemolíticas.",
+     "isCorrect": false
+    },
+    {
+     "text": "Anaeróbicas.",
+     "isCorrect": true
+    }
+   ]
+  },
+  {
+   "text": "¿En qué Decreto se ordena la gestión de residuos sanitarios del Servicio Canario de la Salud?",
+   "options": [
+    {
+     "text": "Decreto 102/2002, de 26 de Julio.",
+     "isCorrect": false
+    },
+    {
+     "text": "Decreto 102/2002, de 18 de Julio.",
+     "isCorrect": false
+    },
+    {
+     "text": "Decreto 104/2002, de 26 de Julio.",
+     "isCorrect": true
+    },
+    {
+     "text": "Decreto 104/2002, de 18 de Julio.",
+     "isCorrect": false
+    }
+   ]
+  },
+  {
+   "text": "Sabemos que los micronutrientes:",
+   "options": [
+    {
+     "text": "Son las vitaminas y los minerales.",
+     "isCorrect": false
+    },
+    {
+     "text": "Sólo están presentes en pequeñas proporciones.",
+     "isCorrect": false
+    },
+    {
+     "text": "Son imprescindibles para el mantenimiento de la vida.",
+     "isCorrect": false
+    },
+    {
+     "text": "Todas son correctas.",
+     "isCorrect": true
+    }
+   ]
+  },
+  {
+   "text": "¿Cuáles son las funciones de los glúcidos?",
+   "options": [
+    {
+     "text": "Función energética y de reserva.",
+     "isCorrect": false
+    },
+    {
+     "text": "Función plástica o estructural.",
+     "isCorrect": false
+    },
+    {
+     "text": "Función de reserva, función energética y función plástica o estructural",
+     "isCorrect": true
+    },
+    {
+     "text": "Ninguna es correcta.",
+     "isCorrect": false
+    }
+   ]
+  },
+  {
+   "text": "¿Cómo pueden ser los ácidos grasos?",
+   "options": [
+    {
+     "text": "Muy saturados y poco saturados.",
+     "isCorrect": false
+    },
+    {
+     "text": "Poliinsaturados y poco saturados.",
+     "isCorrect": false
+    },
+    {
+     "text": "Saturados, insaturados y poliinsaturados.",
+     "isCorrect": true
+    },
+    {
+     "text": "Todas son correctas.",
+     "isCorrect": false
+    }
+   ]
+  },
+  {
+   "text": "¿Cuáles son las funciones de los lípidos?",
+   "options": [
+    {
+     "text": "Función protectora y función energética.",
+     "isCorrect": false
+    },
+    {
+     "text": "Función reguladora y función protectora.",
+     "isCorrect": false
+    },
+    {
+     "text": "Función protectora y función de tránsito.",
+     "isCorrect": false
+    },
+    {
+     "text": "Función energética, función plástica y función reguladora.",
+     "isCorrect": true
+    }
+   ]
+  },
+  {
+   "text": "¿Cómo se clasifican los aminoácidos?",
+   "options": [
+    {
+     "text": "Dipéptidos, tripéptidos, tetrapéptidos y grasas.",
+     "isCorrect": false
+    },
+    {
+     "text": "Dipéptidos, tripéptidos, grasas y proteínas.",
+     "isCorrect": false
+    },
+    {
+     "text": "Dipéptidos, tripéptidos, polipéptidos y proteínas.",
+     "isCorrect": true
+    },
+    {
+     "text": "Ninguna es correcta.",
+     "isCorrect": false
+    }
+   ]
+  },
+  {
+   "text": "Una alimentación equilibrada es:",
+   "options": [
+    {
+     "text": "La ingesta diaria de alimentos que aportan los nutrientes necesarios para garantizar el desarrollo y mantenimiento adecuados en el organismo.",
+     "isCorrect": true
+    },
+    {
+     "text": "La ingesta semanal de alimentos que aportan los nutrientes necesarios para garantizar el desarrollo a largo plazo del organismo.",
+     "isCorrect": false
+    },
+    {
+     "text": "La ingesta de los alimentos que tomamos en el desayuno ya que es la comida principal.",
+     "isCorrect": false
+    },
+    {
+     "text": "Todas son correctas.",
+     "isCorrect": false
+    }
+   ]
+  },
+  {
+   "text": "Los alimentos naturales se dividen en grupos. ¿Qué alimentos pertenecen al tercer grupo?",
+   "options": [
+    {
+     "text": "Cereales, arroz, pan, pasta y azúcar.",
+     "isCorrect": false
+    },
+    {
+     "text": "Legumbres, frutos secos y tubérculos",
+     "isCorrect": true
+    },
+    {
+     "text": "Leche y derivados.",
+     "isCorrect": false
+    },
+    {
+     "text": "Grasas, aceites y mantequillas.",
+     "isCorrect": false
+    }
+   ]
+  },
+  {
+   "text": "Definición de la Toxiinfección alimentaria.",
+   "options": [
+    {
+     "text": "Son patologías producidas por la ingesta de alimentos.",
+     "isCorrect": false
+    },
+    {
+     "text": "Son patologías producidas por la ingesta de alimentos contaminados por microorganismos patógenos.",
+     "isCorrect": true
+    },
+    {
+     "text": "Son patologías producidas por la ingesta de alimentos deshidratados por microorganismos patógenos.",
+     "isCorrect": false
+    },
+    {
+     "text": "Todas son correctas.",
+     "isCorrect": false
+    }
+   ]
+  },
+  {
+   "text": "La Triquinosis o Triquinelosis...",
+   "options": [
+    {
+     "text": "Es una toxiinfección alimentaria producida por parásitos.",
+     "isCorrect": false
+    },
+    {
+     "text": "Se transmite por la carne cruda o poco cocida.",
+     "isCorrect": false
+    },
+    {
+     "text": "Afecta a los músculos y órganos mesentéricos del cerdo y del hombre.",
+     "isCorrect": false
+    },
+    {
+     "text": "Todas son correctas.",
+     "isCorrect": true
+    }
+   ]
+  },
+  {
+   "text": "Tipos de Lactancias.",
+   "options": [
+    {
+     "text": "Lactancia predominantemente mixta.",
+     "isCorrect": false
+    },
+    {
+     "text": "Lactancia artificial y lactancia natural.",
+     "isCorrect": false
+    },
+    {
+     "text": "Lactancia materna o lactancia mixta.",
+     "isCorrect": false
+    },
+    {
+     "text": "Lactancia artificial, lactancia mixta y lactancia natural o materna.",
+     "isCorrect": true
+    }
+   ]
+  },
+  {
+   "text": "En la dieta hipocalórica...",
+   "options": [
+    {
+     "text": "Es una dieta baja en calorías.",
+     "isCorrect": false
+    },
+    {
+     "text": "Hay que restringir los hidratos de carbono, las grasas y el alcohol.",
+     "isCorrect": false
+    },
+    {
+     "text": "Su aporte calórico oscila entre los 800-2000 calorías.",
+     "isCorrect": false
+    },
+    {
+     "text": "Todas son correctas.",
+     "isCorrect": true
+    }
+   ]
+  },
+  {
+   "text": "¿Qué es una dieta laxante?",
+   "options": [
+    {
+     "text": "Es una dieta con alimentos ricos en residuos y fibra indicada para pacientes con estreñimiento.",
+     "isCorrect": true
+    },
+    {
+     "text": "Es una dieta rica en alimentos grasos para que ayuden en el tracto intestinal.",
+     "isCorrect": false
+    },
+    {
+     "text": "Es una dieta baja en potasio que facilite la digestión.",
+     "isCorrect": false
+    },
+    {
+     "text": "Es una dieta con alimentos ricos en residuos y fibra indicada para pacientes con diarreas",
+     "isCorrect": false
+    }
+   ]
+  },
+  {
+   "text": "¿Que se conoce como nutrición parenteral?",
+   "options": [
+    {
+     "text": "Es una técnica para la administración de fórmulas dietéticas por medio de S.N.G.",
+     "isCorrect": false
+    },
+    {
+     "text": "Es una técnica para la administración de fórmulas dietéticas por vía intravenosa, con el fin de mantener la síntesis de proteínas.",
+     "isCorrect": true
+    },
+    {
+     "text": "Es una técnica para la administración de fórmulas dietéticas por vía capilar con el fin de mantener la hidratación del paciente.",
+     "isCorrect": false
+    },
+    {
+     "text": "Es una técnica para la administración de fórmulas dietéticas por vía intramuscular con el fin de mantener la síntesis de glucosa.",
+     "isCorrect": false
+    }
+   ]
+  },
+  {
+   "text": "Los fármacos hipotensores o antihipertensivos...",
+   "options": [
+    {
+     "text": "Aumentan la resistencia periférica o el gasto cardiaco.",
+     "isCorrect": false
+    },
+    {
+     "text": "No están indicados en el tratamiento de la HTA)",
+     "isCorrect": false
+    },
+    {
+     "text": "Disminuyen la resistencia periférica o el gasto cardiaco.",
+     "isCorrect": true
+    },
+    {
+     "text": "Ninguna es correcta.",
+     "isCorrect": false
+    }
+   ]
+  },
+  {
+   "text": "La insulina...",
+   "options": [
+    {
+     "text": "Es un fármaco que aumenta la concentración de glucosa en sangre.",
+     "isCorrect": false
+    },
+    {
+     "text": "Es una hormona que permite a la glucosa atravesar la membrana celular y aumenta el consumo de glucosa por parte del hígado, el tejido adiposo y el músculo estriado para disminuir la concentración de ésta en la sangre.",
+     "isCorrect": true
+    },
+    {
+     "text": "Es una hormona que impide a la glucosa atravesar la membrana celular.",
+     "isCorrect": false
+    },
+    {
+     "text": "Todas son correctas.",
+     "isCorrect": false
+    }
+   ]
+  },
+  {
+   "text": "¿Qué vía de administración se está utilizando cuando colocamos el fármaco bajo la lengua?",
+   "options": [
+    {
+     "text": "Vía oral.",
+     "isCorrect": false
+    },
+    {
+     "text": "Vía supralingual.",
+     "isCorrect": false
+    },
+    {
+     "text": "Vía tópica.",
+     "isCorrect": false
+    },
+    {
+     "text": "Vía sublingual.",
+     "isCorrect": true
+    }
+   ]
+  },
+  {
+   "text": "¿Cómo se denomina, cuando una persona es incapaz de metabolizar una dosis de un fármaco antes de recibir la siguiente dosis?",
+   "options": [
+    {
+     "text": "Se denomina, efecto secundario.",
+     "isCorrect": false
+    },
+    {
+     "text": "Se denomina, tolerancia a un fármaco.",
+     "isCorrect": false
+    },
+    {
+     "text": "Se denomina, efecto ideosincrásico.",
+     "isCorrect": false
+    },
+    {
+     "text": "Se denomina efecto acumulativo.",
+     "isCorrect": true
+    }
+   ]
+  },
+  {
+   "text": "¿Cómo se denomina al fármaco constituido por sustancias sin acción farmacológica?",
+   "options": [
+    {
+     "text": "Placebo.",
+     "isCorrect": true
+    },
+    {
+     "text": "Principio activo.",
+     "isCorrect": false
+    },
+    {
+     "text": "Excipiente.",
+     "isCorrect": false
+    },
+    {
+     "text": "Inofensivo.",
+     "isCorrect": false
+    }
+   ]
+  },
+  {
+   "text": "Señalar la respuesta incorrecta respecto a las ventajas e inconvenientes de los fármacos orales.",
+   "options": [
+    {
+     "text": "Son simples y cómodos, (el paciente los puede tomar por sí mismo).",
+     "isCorrect": false
+    },
+    {
+     "text": "Son de absorción rápida, (son adecuados para tratamiento de urgencias).",
+     "isCorrect": true
+    },
+    {
+     "text": "Constituyen riesgos en el hogar, (accidentes infantiles).",
+     "isCorrect": false
+    },
+    {
+     "text": "Pueden producir irritación, sabor desagradable, coloración dental...",
+     "isCorrect": false
+    }
+   ]
+  },
+  {
+   "text": "A la enfermedad causada inintencionadamente por un tratamiento médico se le denomina.",
+   "options": [
+    {
+     "text": "Enfermedad rara.",
+     "isCorrect": false
+    },
+    {
+     "text": "Enfermedad congénita.",
+     "isCorrect": false
+    },
+    {
+     "text": "Enfermedad iatrogénica.",
+     "isCorrect": true
+    },
+    {
+     "text": "Enfermedad idiopática.",
+     "isCorrect": false
+    }
+   ]
+  },
+  {
+   "text": "Cuando administramos una pomada ocular, la debemos aplicar en:",
+   "options": [
+    {
+     "text": "En el Saco conjuntival o parte inferior del párpado.",
+     "isCorrect": true
+    },
+    {
+     "text": "Parte superior del párpado, (apéndice orbicular).",
+     "isCorrect": false
+    },
+    {
+     "text": "Parte lateral externa.",
+     "isCorrect": false
+    },
+    {
+     "text": "Parte lateral interna.",
+     "isCorrect": false
+    }
+   ]
+  },
+  {
+   "text": "La vía tópica:",
+   "options": [
+    {
+     "text": "Utiliza la piel y las mucosas para la administración de fármacos.",
+     "isCorrect": true
+    },
+    {
+     "text": "Se absorbe el fármaco en la mucosa rectal.",
+     "isCorrect": false
+    },
+    {
+     "text": "Es la vía de elección en las urgencias.",
+     "isCorrect": false
+    },
+    {
+     "text": "Todas son correctas.",
+     "isCorrect": false
+    }
+   ]
+  },
+  {
+   "text": "Dentro de los fármacos que actúan sobre el aparato digestivo, ¿Qué se conoce como antiácidos?",
+   "options": [
+    {
+     "text": "Son neutralizantes de la secreción ácida gástrica.",
+     "isCorrect": true
+    },
+    {
+     "text": "Son acelerantes de la secreción ácida gástrica.",
+     "isCorrect": false
+    },
+    {
+     "text": "Son desencadenantes de la secreción ácida gástrica.",
+     "isCorrect": false
+    },
+    {
+     "text": "Todas son incorrectas.",
+     "isCorrect": false
+    }
+   ]
+  },
+  {
+   "text": "Dentro de los fármacos que actúan sobre la sangre y los órganos hematopoyéticos, ¿Qué son los anticoagulantes?",
+   "options": [
+    {
+     "text": "Son fármacos que actúan ayudando a la coagulación de la sangre.",
+     "isCorrect": false
+    },
+    {
+     "text": "Son fármacos que actúan inhibiendo la coagulación de la sangre y aumenta el tiempo de coagulación.",
+     "isCorrect": true
+    },
+    {
+     "text": "Son fármacos que disminuyen el tiempo de coagulación.",
+     "isCorrect": false
+    },
+    {
+     "text": "Todas son incorrectas.",
+     "isCorrect": false
+    }
+   ]
+  },
+  {
+   "text": "Los fármacos denominados antiarrítmicos:",
+   "options": [
+    {
+     "text": "Aumentan la frecuencia cardiaca.",
+     "isCorrect": false
+    },
+    {
+     "text": "Normalizan el ritmo y la frecuencia cardiaca.",
+     "isCorrect": true
+    },
+    {
+     "text": "Ralentizan el ritmo y la frecuencia cardiaca.",
+     "isCorrect": false
+    },
+    {
+     "text": "Todas son correctas.",
+     "isCorrect": false
+    }
+   ]
+  },
+  {
+   "text": "Inconvenientes de los fármacos orales.",
+   "options": [
+    {
+     "text": "Tienen lenta absorción, inadecuado para tratamiento de urgencias",
+     "isCorrect": false
+    },
+    {
+     "text": "Su eficacia es relativa, dependiente de la absorción gastrointestinal.",
+     "isCorrect": false
+    },
+    {
+     "text": "No adecuados para todos los pacientes.",
+     "isCorrect": false
+    },
+    {
+     "text": "Todas son correctas.",
+     "isCorrect": true
+    }
+   ]
+  },
+  {
+   "text": "El calor se puede propagar de un cuerpo a otro por medio de los siguientes mecanismos:",
+   "options": [
+    {
+     "text": "Conducción, propulsión, radiación y conversión.",
+     "isCorrect": false
+    },
+    {
+     "text": "Propulsión, radiación, convección y conversión.",
+     "isCorrect": false
+    },
+    {
+     "text": "Conducción, convección, radiación y conversión.",
+     "isCorrect": true
+    },
+    {
+     "text": "Conducción, convección, propulsión y conversión.",
+     "isCorrect": false
+    }
+   ]
+  },
+  {
+   "text": "La fisioterapia utiliza agentes físicos (frío y calor), aplicándolos a las superficies corporales, con el fin de aprovechar los efectos terapéuticos que poseen.",
+   "options": [
+    {
+     "text": "Si.",
+     "isCorrect": true
+    },
+    {
+     "text": "No.",
+     "isCorrect": false
+    },
+    {
+     "text": "A veces",
+     "isCorrect": false
+    },
+    {
+     "text": "Ninguna es correcta.",
+     "isCorrect": false
+    }
+   ]
+  },
+  {
+   "text": "Los efectos del calor sobre el organismo son:",
+   "options": [
+    {
+     "text": "Aplicado localmente produce una dilatación de los vasos sanguíneos locales.",
+     "isCorrect": false
+    },
+    {
+     "text": "Produce una mayor afluencia de sangre hacia los tejidos periféricos.",
+     "isCorrect": false
+    },
+    {
+     "text": "Los resultados óptimos del tratamiento aparecen a los 20-30 minutos tras su aplicación.",
+     "isCorrect": false
+    },
+    {
+     "text": "Todas son correctas.",
+     "isCorrect": true
+    }
+   ]
+  },
+  {
+   "text": "Crioterapia, efectos del frío sobre el organismo.",
+   "options": [
+    {
+     "text": "Produce vasoconstricción en la zona de aplicación y adyacentes.",
+     "isCorrect": true
+    },
+    {
+     "text": "Produce vasodilatación.",
+     "isCorrect": false
+    },
+    {
+     "text": "Aumenta el calibre de los vasos sanguíneos.",
+     "isCorrect": false
+    },
+    {
+     "text": "Aumenta el aporte de sangre a los tejidos.",
+     "isCorrect": false
+    }
+   ]
+  },
+  {
+   "text": "¿Cuáles son los efectos locales del frío sobre el organismo?",
+   "options": [
+    {
+     "text": "Antitusivo, anestésico local, antihemorrágico, antitérmico.",
+     "isCorrect": false
+    },
+    {
+     "text": "Antiinflamatorio y anestésico local.",
+     "isCorrect": false
+    },
+    {
+     "text": "Anestésico local y antihemorrágico.",
+     "isCorrect": false
+    },
+    {
+     "text": "Antiinflamatorio, anestésico local, antihemorrágico, antitérmico.",
+     "isCorrect": true
+    }
+   ]
+  },
+  {
+   "text": "¿Cuáles son las formas de aplicación del frío húmedo?",
+   "options": [
+    {
+     "text": "Compresas frías, lociones o fricciones frías, baños de agua caliente y remojo en frío.",
+     "isCorrect": false
+    },
+    {
+     "text": "Compresas calientes, lociones o fricciones frías, baños de agua fría, y remojo en frío.",
+     "isCorrect": false
+    },
+    {
+     "text": "Lociones o fricciones frías, baños de agua fría, remojo en frío y compresas frías.",
+     "isCorrect": true
+    },
+    {
+     "text": "Ninguna es correcta.",
+     "isCorrect": false
+    }
+   ]
+  },
+  {
+   "text": "¿En qué caso está indicado la aplicación de frío local como medida terapéutica?",
+   "options": [
+    {
+     "text": "En cuidados inmediatos o urgentes, en estados postraumáticos recientes.",
+     "isCorrect": false
+    },
+    {
+     "text": "En el alivio del espasmo muscular agudo.",
+     "isCorrect": false
+    },
+    {
+     "text": "En el alivio del dolor en calambres menstruales.",
+     "isCorrect": false
+    },
+    {
+     "text": "Todas son correctas.",
+     "isCorrect": true
+    }
+   ]
+  },
+  {
+   "text": "En los baños de alcohol, como aplicación local del frío...",
+   "options": [
+    {
+     "text": "Es un tipo de frío húmedo que utiliza alcohol diluido en agua al 50%.",
+     "isCorrect": true
+    },
+    {
+     "text": "Es una modalidad de frío húmedo que utiliza alcohol diluido en agua al 30%.",
+     "isCorrect": false
+    },
+    {
+     "text": "Es una modalidad de frío húmedo que utiliza alcohol diluido en agua al 40",
+     "isCorrect": false
+    },
+    {
+     "text": "Ninguna es correcta.",
+     "isCorrect": false
+    }
+   ]
+  },
+  {
+   "text": "Existen diferentes tratamientos con efectos terapéuticos dentro de la fisioterapia, cuando se utiliza el frío se denomina...",
+   "options": [
+    {
+     "text": "Masoterapia.",
+     "isCorrect": false
+    },
+    {
+     "text": "Crioterapia.",
+     "isCorrect": true
+    },
+    {
+     "text": "Termoterapia.",
+     "isCorrect": false
+    },
+    {
+     "text": "Electroterapia.",
+     "isCorrect": false
+    }
+   ]
+  },
+  {
+   "text": "La crioterapia es una de las terapias usadas en la actualidad, entre sus efectos locales tenemos:",
+   "options": [
+    {
+     "text": "Disminución de la temperatura.",
+     "isCorrect": false
+    },
+    {
+     "text": "Vasoconstricción.",
+     "isCorrect": false
+    },
+    {
+     "text": "Disminución del dolor.",
+     "isCorrect": false
+    },
+    {
+     "text": "Todas son correctas.",
+     "isCorrect": true
+    }
+   ]
+  },
+  {
+   "text": "Las lámparas de rayos infrarrojos se utilizan para la terapia con calor local, ¿A que distancia se debe colocar del cuerpo?",
+   "options": [
+    {
+     "text": "Se deben colocar directamente sobre la piel.",
+     "isCorrect": false
+    },
+    {
+     "text": "A 20cm de la zona a tratar.",
+     "isCorrect": false
+    },
+    {
+     "text": "A 60cm de la zona a tratar.",
+     "isCorrect": false
+    },
+    {
+     "text": "A 45cm de la zona a tratar.",
+     "isCorrect": true
+    }
+   ]
+  },
+  {
+   "text": "¿En qué casos estaría contraindicada la crioterapia?",
+   "options": [
+    {
+     "text": "Cuando existan inflamaciones.",
+     "isCorrect": false
+    },
+    {
+     "text": "Cuando queremos bajar la temperatura.",
+     "isCorrect": false
+    },
+    {
+     "text": "Para aliviar el dolor.",
+     "isCorrect": false
+    },
+    {
+     "text": "Cuando existan lesiones cutáneas.",
+     "isCorrect": true
+    }
+   ]
+  },
+  {
+   "text": "Las vías respiratorias inferiores están formadas:",
+   "options": [
+    {
+     "text": "Nariz, faringe, laringe y tráquea.",
+     "isCorrect": false
+    },
+    {
+     "text": "Faringe, laringe y bronquios.",
+     "isCorrect": false
+    },
+    {
+     "text": "Senos paranasales, laringe, tráquea y alveolos.",
+     "isCorrect": false
+    },
+    {
+     "text": "Laringe, tráquea, bronquios, bronquiolos y alveolos.",
+     "isCorrect": true
+    }
+   ]
+  },
+  {
+   "text": "La laringe es un órgano que comunica la faringe con la tráquea y...",
+   "options": [
+    {
+     "text": "Ocupa desde la sexta vértebra cervical hasta la octava.",
+     "isCorrect": false
+    },
+    {
+     "text": "Ocupa desde la cuarta vértebra cervical hasta la sexta vértebra cervical.",
+     "isCorrect": true
+    },
+    {
+     "text": "Ocupa desde la primera vértebra cervical hasta la tercera vértebra cervical.",
+     "isCorrect": false
+    },
+    {
+     "text": "Ninguna es correcta.",
+     "isCorrect": false
+    }
+   ]
+  },
+  {
+   "text": "¿En qué consiste la oxigenoterapia?",
+   "options": [
+    {
+     "text": "Consiste en la administración de oxígeno con la finalidad de establecer la tasa anormal de oxígeno en sangre.",
+     "isCorrect": false
+    },
+    {
+     "text": "Consiste en la administración de oxígeno gaseoso con la finalidad de establecer la tasa normal de oxígeno en sangre.",
+     "isCorrect": true
+    },
+    {
+     "text": "Consiste en la ventilación de la habitación con el fin de que el paciente oxigene.",
+     "isCorrect": false
+    },
+    {
+     "text": "Ninguna es correcta.",
+     "isCorrect": false
+    }
+   ]
+  },
+  {
+   "text": "Con respecto a las balas de oxígeno...",
+   "options": [
+    {
+     "text": "Contienen O2 a una presión superior a la atmosférica y a la Temperatura de 21ºC)",
+     "isCorrect": false
+    },
+    {
+     "text": "Las unidades en la que se expresa la capacidad de una bala puede ser: Litros, Atmósferas de Presión, mmHg o Kg/cc",
+     "isCorrect": false
+    },
+    {
+     "text": "Las balas están provistas de un manómetro que mide la presión de O2 en el interior de la bala)",
+     "isCorrect": false
+    },
+    {
+     "text": "Todas son correctas.",
+     "isCorrect": true
+    }
+   ]
+  },
+  {
+   "text": "En los equipos de Oxigenoterapia, en el sistema de humidificación...",
+   "options": [
+    {
+     "text": "Para administrar O2, es necesario de proveerlo del grado de humedad adecuado para evitar irritación y sequedad de la mucosa e incluso otras lesiones.",
+     "isCorrect": true
+    },
+    {
+     "text": "No hay que humidificar nunca.",
+     "isCorrect": false
+    },
+    {
+     "text": "Solo hay que humidificar en verano o cuando las temperaturas estén por encima de 25ºC)",
+     "isCorrect": false
+    },
+    {
+     "text": "Ninguna es correcta.",
+     "isCorrect": false
+    }
+   ]
+  },
+  {
+   "text": "El tubo endotraqueal, una vez fijado por neumotaponamiento a la tráquea se puede conectar:",
+   "options": [
+    {
+     "text": "Directamente al caudalímetro interponiendo un filtro.",
+     "isCorrect": false
+    },
+    {
+     "text": "Se puede ventilar manualmente con un ambur que a su vez se conecta al caudalímetro.",
+     "isCorrect": false
+    },
+    {
+     "text": "Se puede conectar a la ventilación mecánica.",
+     "isCorrect": false
+    },
+    {
+     "text": "Todas son correctas.",
+     "isCorrect": true
+    }
+   ]
+  },
+  {
+   "text": "¿Qué es el resucitador manual?",
+   "options": [
+    {
+     "text": "Es un dispositivo con un balón autoinflable y una válvula que evita la reinspiración.",
+     "isCorrect": false
+    },
+    {
+     "text": "Puede emplearse con mascarilla o directamente sobre el tubo endotraqueal.",
+     "isCorrect": false
+    },
+    {
+     "text": "Poseen una toma de oxígeno y como accesorio, un reservorio con el que se pueden alcanzar concentraciones de O2 cercanos al 100%.",
+     "isCorrect": false
+    },
+    {
+     "text": "Todas son correctas.",
+     "isCorrect": true
+    }
+   ]
+  },
+  {
+   "text": "Precauciones en la oxigenoterapia.",
+   "options": [
+    {
+     "text": "Las balas de oxígeno se colocan horizontalmente.",
+     "isCorrect": false
+    },
+    {
+     "text": "Comprobar que el frasco humidificador contiene agua destilada que supere la señal indicada.",
+     "isCorrect": false
+    },
+    {
+     "text": "Las balas de oxígeno se colocan verticalmente.",
+     "isCorrect": true
+    },
+    {
+     "text": "Ninguna es correcta.",
+     "isCorrect": false
+    }
+   ]
+  },
+  {
+   "text": "Los drenajes:",
+   "options": [
+    {
+     "text": "Facilitan la salida al exterior de líquidos o gases que se han acumulado de manera anormal en el organismo.",
+     "isCorrect": true
+    },
+    {
+     "text": "El penrose es un sistema de drenaje abierto activo.",
+     "isCorrect": false
+    },
+    {
+     "text": "Los drenajes permiten la evacuación de líquidos o gases pero retrasa la cicatrización.",
+     "isCorrect": false
+    },
+    {
+     "text": "Todas son correctas.",
+     "isCorrect": false
+    }
+   ]
+  },
+  {
+   "text": "Material necesario para la aspiración de secreciones:",
+   "options": [
+    {
+     "text": "Sonda de aspiración, sistema de aspiración y bolsa de recolección.",
+     "isCorrect": false
+    },
+    {
+     "text": "Conexión en Y o en T, guantes estériles y recipiente con solución antiséptica.",
+     "isCorrect": false
+    },
+    {
+     "text": "Suero fisiológico o agua bidestilada.",
+     "isCorrect": false
+    },
+    {
+     "text": "Todas son correctas.",
+     "isCorrect": true
+    }
+   ]
+  },
+  {
+   "text": "Desventajas de la mascarilla simple.",
+   "options": [
+    {
+     "text": "Puede producir retención de CO2 cuando no es suficiente la tasa de flujo de oxígeno",
+     "isCorrect": false
+    },
+    {
+     "text": "No permite utilizar flujos menores a 5 litros por minuto.",
+     "isCorrect": false
+    },
+    {
+     "text": "Es incómoda para el recién nacido.",
+     "isCorrect": false
+    },
+    {
+     "text": "Todas son correctas.",
+     "isCorrect": true
+    }
+   ]
+  },
+  {
+   "text": "¿Cuál es la capacidad pulmonar total en condiciones normales?",
+   "options": [
+    {
+     "text": "1,5 litros.",
+     "isCorrect": false
+    },
+    {
+     "text": "3,5 litros.",
+     "isCorrect": false
+    },
+    {
+     "text": "4,5 litros.",
+     "isCorrect": false
+    },
+    {
+     "text": "5,5 litros.",
+     "isCorrect": true
+    }
+   ]
+  },
+  {
+   "text": "¿Por qué vía se transmite la enfermedad conocida como tuberculosis?",
+   "options": [
+    {
+     "text": "Contacto.",
+     "isCorrect": false
+    },
+    {
+     "text": "Hemática.",
+     "isCorrect": false
+    },
+    {
+     "text": "Respiratoria.",
+     "isCorrect": true
+    },
+    {
+     "text": "Oral/fecal.",
+     "isCorrect": false
+    }
+   ]
+  },
+  {
+   "text": "En las infecciones hospitalarias, ¿Qué patología causan más muertes?",
+   "options": [
+    {
+     "text": "Neumonías.",
+     "isCorrect": true
+    },
+    {
+     "text": "Infecciones cutáneas-mucosas.",
+     "isCorrect": false
+    },
+    {
+     "text": "Infecciones bucales.",
+     "isCorrect": false
+    },
+    {
+     "text": "Infecciones de oído.",
+     "isCorrect": false
+    }
+   ]
+  },
+  {
+   "text": "Las mascarillas quirúrgicas, ¿Para cuántas intervenciones son?",
+   "options": [
+    {
+     "text": "Para siempre, porque se esterilizan.",
+     "isCorrect": false
+    },
+    {
+     "text": "Para toda la mañana.",
+     "isCorrect": false
+    },
+    {
+     "text": "Para cada semana.",
+     "isCorrect": false
+    },
+    {
+     "text": "Exclusivamente para una.",
+     "isCorrect": true
+    }
+   ]
+  },
+  {
+   "text": "Para acceder a una zona estéril ¿Qué prenda es la primera en ponerse?:",
+   "options": [
+    {
+     "text": "Gorros.",
+     "isCorrect": false
+    },
+    {
+     "text": "Guantes.",
+     "isCorrect": false
+    },
+    {
+     "text": "Calzas.",
+     "isCorrect": true
+    },
+    {
+     "text": "Bata.",
+     "isCorrect": false
+    }
+   ]
+  },
+  {
+   "text": "Durante el lavado quirúrgico de manos, ¿Cómo no debe cerrarse el grifo del agua?",
+   "options": [
+    {
+     "text": "Con las manos directamente.",
+     "isCorrect": true
+    },
+    {
+     "text": "Con el codo.",
+     "isCorrect": false
+    },
+    {
+     "text": "Con el sistema pedal del pie.",
+     "isCorrect": false
+    },
+    {
+     "text": "Con la cabeza.",
+     "isCorrect": false
+    }
+   ]
+  },
+  {
+   "text": "El lavado de manos debe realizarse por primera vez en la jornada...",
+   "options": [
+    {
+     "text": "Al salir del trabajo.",
+     "isCorrect": false
+    },
+    {
+     "text": "Al llegar al trabajo.",
+     "isCorrect": true
+    },
+    {
+     "text": "Antes de salir de casa.",
+     "isCorrect": false
+    },
+    {
+     "text": "Después de ir al servicio.",
+     "isCorrect": false
+    }
+   ]
+  },
+  {
+   "text": "¿Por qué son necesarios los guantes quirúrgicos en una cirugía?",
+   "options": [
+    {
+     "text": "Para no ensuciarnos las manos.",
+     "isCorrect": false
+    },
+    {
+     "text": "Porque el lavado de manos quirúrgico no garantiza la eliminación de los microorganismos.",
+     "isCorrect": true
+    },
+    {
+     "text": "No se utilizan guantes.",
+     "isCorrect": false
+    },
+    {
+     "text": "Todas son correctas.",
+     "isCorrect": false
+    }
+   ]
+  },
+  {
+   "text": "¿Cuál de las siguientes opciones son barreras higiénicas propiamente químicas?:",
+   "options": [
+    {
+     "text": "Ponernos Bata.",
+     "isCorrect": false
+    },
+    {
+     "text": "Lavado quirúrgico de manos.",
+     "isCorrect": false
+    },
+    {
+     "text": "Empleo de desinfectantes y antisépticos.",
+     "isCorrect": true
+    },
+    {
+     "text": "Usar guantes.",
+     "isCorrect": false
+    }
+   ]
+  },
+  {
+   "text": "¿Cuál es la medida más eficaz para la prevención de bacteriemias de tipo hospitalario?",
+   "options": [
+    {
+     "text": "Uso de mascarillas.",
+     "isCorrect": false
+    },
+    {
+     "text": "Lavado de manos quirúrgico.",
+     "isCorrect": false
+    },
+    {
+     "text": "Cuidadosa elección y mantenimiento de las cánulas arteriales y venosas.",
+     "isCorrect": true
+    },
+    {
+     "text": "Ninguna es correcta.",
+     "isCorrect": false
+    }
+   ]
+  },
+  {
+   "text": "Frente a la cólera ¿Qué tipo de aislamiento hospitalario debemos hacer?",
+   "options": [
+    {
+     "text": "Respiratorio.",
+     "isCorrect": false
+    },
+    {
+     "text": "Entérico.",
+     "isCorrect": true
+    },
+    {
+     "text": "A y B no son correctas.",
+     "isCorrect": false
+    },
+    {
+     "text": "A y B son correctas.",
+     "isCorrect": false
+    }
+   ]
+  },
+  {
+   "text": "Si el paciente no es contagioso y está aislado ¿Qué tipo / modalidad de aislamiento tiene?",
+   "options": [
+    {
+     "text": "Respiratorio.",
+     "isCorrect": false
+    },
+    {
+     "text": "Directo",
+     "isCorrect": false
+    },
+    {
+     "text": "Indirecto",
+     "isCorrect": false
+    },
+    {
+     "text": "Protector.",
+     "isCorrect": true
+    }
+   ]
+  },
+  {
+   "text": "¿Qué debemos emplear para evitar lesiones en la piel, producidas por el reiterado lavado de manos?",
+   "options": [
+    {
+     "text": "Crema protectora.",
+     "isCorrect": true
+    },
+    {
+     "text": "Alcohol de 80 grados.",
+     "isCorrect": false
+    },
+    {
+     "text": "Betadine.",
+     "isCorrect": false
+    },
+    {
+     "text": "Ninguna es correcta.",
+     "isCorrect": false
+    }
+   ]
+  },
+  {
+   "text": "En las infecciones urinarias, ¿Qué agente de infección nosocomial está más relacionado?",
+   "options": [
+    {
+     "text": "Streptococus epidermis.",
+     "isCorrect": false
+    },
+    {
+     "text": "Enterococos faecalis.",
+     "isCorrect": true
+    },
+    {
+     "text": "Ninguna es correcta",
+     "isCorrect": false
+    },
+    {
+     "text": "A y la B son correctas.",
+     "isCorrect": false
+    }
+   ]
+  },
+  {
+   "text": "¿Cómo se denomina el conjunto de técnicas utilizadas para la eliminación de artrópodos?:",
+   "options": [
+    {
+     "text": "Desinsectación.",
+     "isCorrect": true
+    },
+    {
+     "text": "Lavado.",
+     "isCorrect": false
+    },
+    {
+     "text": "Esterilización.",
+     "isCorrect": false
+    },
+    {
+     "text": "Ninguna es correcta.",
+     "isCorrect": false
+    }
+   ]
+  },
+  {
+   "text": "Los insecticidas más importantes en la práctica son:",
+   "options": [
+    {
+     "text": "Repelentes.",
+     "isCorrect": false
+    },
+    {
+     "text": "Por contacto.",
+     "isCorrect": true
+    },
+    {
+     "text": "Fumigantes.",
+     "isCorrect": false
+    },
+    {
+     "text": "Todas son correctas.",
+     "isCorrect": false
+    }
+   ]
+  },
+  {
+   "text": "Indica la respuesta incorrecta. Un buen desinfectante:",
+   "options": [
+    {
+     "text": "No es tóxico ni corrosivo.",
+     "isCorrect": false
+    },
+    {
+     "text": "Deja brillante en el material.",
+     "isCorrect": false
+    },
+    {
+     "text": "Es aquel que posee un espectro reducido de acción.",
+     "isCorrect": true
+    },
+    {
+     "text": "Ninguna es correcta.",
+     "isCorrect": false
+    }
+   ]
+  },
+  {
+   "text": "¿Qué destruye o elimina la esterilización?:",
+   "options": [
+    {
+     "text": "Gérmenes patógenos.",
+     "isCorrect": false
+    },
+    {
+     "text": "Esporas.",
+     "isCorrect": false
+    },
+    {
+     "text": "Resistencia y esporas.",
+     "isCorrect": false
+    },
+    {
+     "text": "Todas son correctas.",
+     "isCorrect": true
+    }
+   ]
+  },
+  {
+   "text": "¿Cada cuánto se limpia la habitación de un paciente?",
+   "options": [
+    {
+     "text": "Se limpia cuando se vaya el paciente.",
+     "isCorrect": false
+    },
+    {
+     "text": "No se limpia.",
+     "isCorrect": false
+    },
+    {
+     "text": "Cada semana.",
+     "isCorrect": false
+    },
+    {
+     "text": "Cada día.",
+     "isCorrect": true
+    }
+   ]
+  },
+  {
+   "text": "En la bolsa amarilla, ¿Qué tipo de ropa sucia se introduce?:",
+   "options": [
+    {
+     "text": "Ropa de cama solamente.",
+     "isCorrect": false
+    },
+    {
+     "text": "Las toallas.",
+     "isCorrect": false
+    },
+    {
+     "text": "Ropa muy mojada o muy manchada.",
+     "isCorrect": true
+    },
+    {
+     "text": "Ropa limpia.",
+     "isCorrect": false
+    }
+   ]
+  },
+  {
+   "text": "¿Qué agente transmite la sarna?",
+   "options": [
+    {
+     "text": "COVID 19",
+     "isCorrect": false
+    },
+    {
+     "text": "Sarcopte scabiei.",
+     "isCorrect": true
+    },
+    {
+     "text": "VHI (SIDA).",
+     "isCorrect": false
+    },
+    {
+     "text": "Ninguna es correcta.",
+     "isCorrect": false
+    }
+   ]
+  },
+  {
+   "text": "¿Cuál sería una vía de transmisión directa?",
+   "options": [
+    {
+     "text": "Transplacentaria.",
+     "isCorrect": true
+    },
+    {
+     "text": "Por agua contaminada.",
+     "isCorrect": false
+    },
+    {
+     "text": "Por fómites.",
+     "isCorrect": false
+    },
+    {
+     "text": "Ninguna es correcta.",
+     "isCorrect": false
+    }
+   ]
+  },
+  {
+   "text": "De las siguientes enfermedades transmisibles, ¿Cuál posee un grado muy bajo de contagiosidad?",
+   "options": [
+    {
+     "text": "Lepra",
+     "isCorrect": true
+    },
+    {
+     "text": "COVID 19",
+     "isCorrect": false
+    },
+    {
+     "text": "Gripe.",
+     "isCorrect": false
+    },
+    {
+     "text": "Todas son correctas.",
+     "isCorrect": false
+    }
+   ]
+  },
+  {
+   "text": "El agente causal de una enfermedad transmisible ¿Qué característica no cumple?",
+   "options": [
+    {
+     "text": "Se reproduce.",
+     "isCorrect": false
+    },
+    {
+     "text": "Puede ser endógena y exógena.",
+     "isCorrect": true
+    },
+    {
+     "text": "Es endógena.",
+     "isCorrect": false
+    },
+    {
+     "text": "Es exógena.",
+     "isCorrect": false
+    }
+   ]
+  },
+  {
+   "text": "La asociación con beneficios para agentes y huéspedes ¿a qué corresponde?",
+   "options": [
+    {
+     "text": "Comensalismo.",
+     "isCorrect": false
+    },
+    {
+     "text": "Parasitismo.",
+     "isCorrect": false
+    },
+    {
+     "text": "Simbiosis.",
+     "isCorrect": true
+    },
+    {
+     "text": "Todos son correctas.",
+     "isCorrect": false
+    }
+   ]
+  },
+  {
+   "text": "¿De qué fuente proceden las infecciones homólogas?:",
+   "options": [
+    {
+     "text": "Ninguna es correcta.",
+     "isCorrect": false
+    },
+    {
+     "text": "Animales.",
+     "isCorrect": false
+    },
+    {
+     "text": "Objetos.",
+     "isCorrect": false
+    },
+    {
+     "text": "Personas.",
+     "isCorrect": true
+    }
+   ]
+  },
+  {
+   "text": "Si queremos destruir a todos los microorganismos y esporas, ¿Qué método utilizaríamos?:",
+   "options": [
+    {
+     "text": "Limpieza con agua y jabón.",
+     "isCorrect": false
+    },
+    {
+     "text": "Fumigación.",
+     "isCorrect": false
+    },
+    {
+     "text": "Antisepsia.",
+     "isCorrect": false
+    },
+    {
+     "text": "Esterilización.",
+     "isCorrect": true
+    }
+   ]
+  },
+  {
+   "text": "Señale la opción incorrecta.",
+   "options": [
+    {
+     "text": "Se considera material crítico aquel que está en contacto con sangre o cavidades estériles.",
+     "isCorrect": false
+    },
+    {
+     "text": "Se considera material no crítico un termómetro.",
+     "isCorrect": false
+    },
+    {
+     "text": "El material semicrítico precisa desinfección de alto nivel.",
+     "isCorrect": false
+    },
+    {
+     "text": "Un laringoscopio se considera material no crítico.",
+     "isCorrect": true
+    }
+   ]
+  },
+  {
+   "text": "El material a esterilizar en la estufa Poupinel ¿Dónde se suele envolver?:",
+   "options": [
+    {
+     "text": "Bolsas de papel.",
+     "isCorrect": false
+    },
+    {
+     "text": "Bolsas de aluminio.",
+     "isCorrect": true
+    },
+    {
+     "text": "Bolsas de vidrio.",
+     "isCorrect": false
+    },
+    {
+     "text": "No se envuelve.",
+     "isCorrect": false
+    }
+   ]
+  },
+  {
+   "text": "El servicio de esterilización en un hospital, ¿Dónde suele estar situado?:",
+   "options": [
+    {
+     "text": "En planta baja o sótanos.",
+     "isCorrect": true
+    },
+    {
+     "text": "Fuera del hospital.",
+     "isCorrect": false
+    },
+    {
+     "text": "A la entrada del hospital.",
+     "isCorrect": false
+    },
+    {
+     "text": "Siempre en la planta 5.",
+     "isCorrect": false
+    }
+   ]
+  },
+  {
+   "text": "La caducidad del material esterilizado en las condiciones de triple barrera de cuánto es el tiempo:",
+   "options": [
+    {
+     "text": "No caduca.",
+     "isCorrect": false
+    },
+    {
+     "text": "5 años.",
+     "isCorrect": false
+    },
+    {
+     "text": "10 Días.",
+     "isCorrect": false
+    },
+    {
+     "text": "3 meses.",
+     "isCorrect": true
+    }
+   ]
+  },
+  {
+   "text": "La humedad en el lugar de almacenaje y conservación debe estar entre:",
+   "options": [
+    {
+     "text": "5-10%.",
+     "isCorrect": false
+    },
+    {
+     "text": "10-20%.",
+     "isCorrect": false
+    },
+    {
+     "text": "40-60%.",
+     "isCorrect": true
+    },
+    {
+     "text": "No importa la humedad.",
+     "isCorrect": false
+    }
+   ]
+  },
+  {
+   "text": "Señala la opción correcta. Las ventajas del autoclave es:",
+   "options": [
+    {
+     "text": "Medio de esterilización barato.",
+     "isCorrect": false
+    },
+    {
+     "text": "Medio de esterilización sencillo.",
+     "isCorrect": false
+    },
+    {
+     "text": "Todas son correctas.",
+     "isCorrect": true
+    },
+    {
+     "text": "Es aplicable a una gran gama de materiales.",
+     "isCorrect": false
+    }
+   ]
+  },
+  {
+   "text": "Temperatura más idónea del óxido de etileno cuando se emplea en esterilización.",
+   "options": [
+    {
+     "text": "-10 ºC",
+     "isCorrect": false
+    },
+    {
+     "text": "5-10ºC",
+     "isCorrect": false
+    },
+    {
+     "text": "10-15ºC",
+     "isCorrect": false
+    },
+    {
+     "text": "55-60 ºC",
+     "isCorrect": true
+    }
+   ]
+  },
+  {
+   "text": "Son zonas corporales donde tomar la temperatura:",
+   "options": [
+    {
+     "text": "Solamente se considera válida la axilar.",
+     "isCorrect": false
+    },
+    {
+     "text": "Es indiferente.",
+     "isCorrect": false
+    },
+    {
+     "text": "Axilar, oral, umbilical.",
+     "isCorrect": false
+    },
+    {
+     "text": "Axilar, bucal, ótica y rectal.",
+     "isCorrect": true
+    }
+   ]
+  },
+  {
+   "text": "A la hora de realizar una valoración del sistema genitourinario, deberemos valorar. Señale la incorrecta:",
+   "options": [
+    {
+     "text": "Dificultad o dolor en la micción.",
+     "isCorrect": false
+    },
+    {
+     "text": "Secreciones vaginales o uretrales.",
+     "isCorrect": false
+    },
+    {
+     "text": "Ruidos intestinales.",
+     "isCorrect": true
+    },
+    {
+     "text": "Distención vesical.",
+     "isCorrect": false
+    }
+   ]
+  },
+  {
+   "text": "El material q vamos a esterilizar con glutaraldehídos al 2%, ¿Cuánto tiempo debe estar inmerso?",
+   "options": [
+    {
+     "text": "1 minuto.",
+     "isCorrect": false
+    },
+    {
+     "text": "10 minutos.",
+     "isCorrect": true
+    },
+    {
+     "text": "10 horas.",
+     "isCorrect": false
+    },
+    {
+     "text": "3 días.",
+     "isCorrect": false
+    }
+   ]
+  },
+  {
+   "text": "¿Dónde se colocan los indicadores colorimétricos como medio de control químico en la esterilización para comprobar que ha funcionado?:",
+   "options": [
+    {
+     "text": "Se colocan en zonas del interior de la autoclave difícil acceso.",
+     "isCorrect": false
+    },
+    {
+     "text": "Se colocan en el exterior en forma de cinta autoadhesiva, dentro del paquete y en zonas de difícil acceso del autoclave.",
+     "isCorrect": true
+    },
+    {
+     "text": "Se colocan en el exterior.",
+     "isCorrect": false
+    },
+    {
+     "text": "No hace falta colocar nada.",
+     "isCorrect": false
+    }
+   ]
+  },
+  {
+   "text": "¿Por qué se produce la menstruación?",
+   "options": [
+    {
+     "text": "Una deprivación hormonal.",
+     "isCorrect": true
+    },
+    {
+     "text": "Una hipersecreción hipofisaria.",
+     "isCorrect": false
+    },
+    {
+     "text": "Una hiposecreción hipofisaria.",
+     "isCorrect": false
+    },
+    {
+     "text": "Todas son correctas.",
+     "isCorrect": false
+    }
+   ]
+  },
+  {
+   "text": "¿Dónde se produce la fecundación normalmente?:",
+   "options": [
+    {
+     "text": "Ovarios.",
+     "isCorrect": false
+    },
+    {
+     "text": "Trompas de Falopio.",
+     "isCorrect": true
+    },
+    {
+     "text": "Cuerpo de útero.",
+     "isCorrect": false
+    },
+    {
+     "text": "Todas son correctas.",
+     "isCorrect": false
+    }
+   ]
+  },
+  {
+   "text": "En la lactancia materna ¿Qué hormona impide la ovulación?",
+   "options": [
+    {
+     "text": "LH.",
+     "isCorrect": false
+    },
+    {
+     "text": "Progesterona.",
+     "isCorrect": false
+    },
+    {
+     "text": "Prolactina.",
+     "isCorrect": true
+    },
+    {
+     "text": "Todas son correctas.",
+     "isCorrect": false
+    }
+   ]
+  },
+  {
+   "text": "¿Qué orina es mejor para hacer un test de embarazo?:",
+   "options": [
+    {
+     "text": "La primera orina después de desayunar.",
+     "isCorrect": false
+    },
+    {
+     "text": "La última orina del día.",
+     "isCorrect": false
+    },
+    {
+     "text": "La segunda orina antes de desayunar.",
+     "isCorrect": false
+    },
+    {
+     "text": "La primera orina de la mañana.",
+     "isCorrect": true
+    }
+   ]
+  },
+  {
+   "text": "¿Cuántas veces es recomendado que la gestante se bañe?",
+   "options": [
+    {
+     "text": "1 vez al día.",
+     "isCorrect": true
+    },
+    {
+     "text": "1 vez a la semana.",
+     "isCorrect": false
+    },
+    {
+     "text": "1 vez cada tres días.",
+     "isCorrect": false
+    },
+    {
+     "text": "1 por la mañana y otra por la noche.",
+     "isCorrect": false
+    }
+   ]
+  },
+  {
+   "text": "¿Qué suplemento es de uso frecuente en el embarazo?",
+   "options": [
+    {
+     "text": "Nada.",
+     "isCorrect": false
+    },
+    {
+     "text": "Ácido Fólico.",
+     "isCorrect": true
+    },
+    {
+     "text": "Miel.",
+     "isCorrect": false
+    },
+    {
+     "text": "Ninguna es correcta.",
+     "isCorrect": false
+    }
+   ]
+  },
+  {
+   "text": "Los vómitos y nauseas en la embarazada ¿A qué hormona se achaca?",
+   "options": [
+    {
+     "text": "Estrógenos.",
+     "isCorrect": false
+    },
+    {
+     "text": "Progestágenos.",
+     "isCorrect": false
+    },
+    {
+     "text": "Gonadotropina coriónica.",
+     "isCorrect": true
+    },
+    {
+     "text": "Todas son correctas.",
+     "isCorrect": false
+    }
+   ]
+  },
+  {
+   "text": "¿Cómo se llaman las contracciones uterinas propias del puerperio?",
+   "options": [
+    {
+     "text": "Amenorrea.",
+     "isCorrect": false
+    },
+    {
+     "text": "Dismenorreas.",
+     "isCorrect": false
+    },
+    {
+     "text": "Entuertos.",
+     "isCorrect": true
+    },
+    {
+     "text": "Todas son correctas.",
+     "isCorrect": false
+    }
+   ]
+  },
+  {
+   "text": "¿Cuándo aparecen los esfuerzos de pujos en el parto?",
+   "options": [
+    {
+     "text": "Antes de la dilatación.",
+     "isCorrect": false
+    },
+    {
+     "text": "Con la rotura de la bolsa.",
+     "isCorrect": false
+    },
+    {
+     "text": "Al final de la dilatación del cuello.",
+     "isCorrect": true
+    },
+    {
+     "text": "Ninguna es correcta.",
+     "isCorrect": false
+    }
+   ]
+  },
+  {
+   "text": "El parto que ocurre a las 37 semanas, se llama:",
+   "options": [
+    {
+     "text": "Parto prematuro.",
+     "isCorrect": false
+    },
+    {
+     "text": "Parto postérmino.",
+     "isCorrect": false
+    },
+    {
+     "text": "Ninguna es correcta.",
+     "isCorrect": false
+    },
+    {
+     "text": "Parto a término.",
+     "isCorrect": true
+    }
+   ]
+  },
+  {
+   "text": "¿Qué estructura ovárica da lugar a la liberación del ovulo?",
+   "options": [
+    {
+     "text": "Folículo de GRAAF.",
+     "isCorrect": true
+    },
+    {
+     "text": "Cuerpo amarillo.",
+     "isCorrect": false
+    },
+    {
+     "text": "Cuero albicas.",
+     "isCorrect": false
+    },
+    {
+     "text": "Todas son correctas.",
+     "isCorrect": false
+    }
+   ]
+  },
+  {
+   "text": "¿Qué método de diagnóstico de embarazo es el más frecuente?",
+   "options": [
+    {
+     "text": "Test de embarazo en saliva.",
+     "isCorrect": false
+    },
+    {
+     "text": "Test de embarazo en el sudor.",
+     "isCorrect": false
+    },
+    {
+     "text": "Test de embarazo en orina.",
+     "isCorrect": true
+    },
+    {
+     "text": "Todas son correctas",
+     "isCorrect": false
+    }
+   ]
+  },
+  {
+   "text": "Se puede considerar, recién nacido…",
+   "options": [
+    {
+     "text": "Bebé de hasta 28 días de vida.",
+     "isCorrect": true
+    },
+    {
+     "text": "1 año de vida.",
+     "isCorrect": false
+    },
+    {
+     "text": "Todas son correctas",
+     "isCorrect": false
+    },
+    {
+     "text": "Hasta los 3 meses de vida.",
+     "isCorrect": false
+    }
+   ]
+  },
+  {
+   "text": "En la infancia, ¿Qué enfermedades son las que causan mayor número de hospitalizaciones?",
+   "options": [
+    {
+     "text": "Enfermedades del aparato locomotor.",
+     "isCorrect": false
+    },
+    {
+     "text": "Enfermedades del aparato respiratorio.",
+     "isCorrect": true
+    },
+    {
+     "text": "Enfermedades del aparato urinario.",
+     "isCorrect": false
+    },
+    {
+     "text": "Enfermedades del aparato cardiovascular.",
+     "isCorrect": false
+    }
+   ]
+  },
+  {
+   "text": "En la leche materna, ¿Qué sustancia es escasa y no cubre adecuadamente los requerimientos del lactante?",
+   "options": [
+    {
+     "text": "Los hidratos de carbono.",
+     "isCorrect": false
+    },
+    {
+     "text": "Las proteínas.",
+     "isCorrect": false
+    },
+    {
+     "text": "Hierro.",
+     "isCorrect": true
+    },
+    {
+     "text": "Los lípidos.",
+     "isCorrect": false
+    }
+   ]
+  },
+  {
+   "text": "Que neonatos son considerados prematuros extremos por su peso:",
+   "options": [
+    {
+     "text": "Neonatos de 2.500gr.",
+     "isCorrect": false
+    },
+    {
+     "text": "Neonatos de 1.500gr.",
+     "isCorrect": false
+    },
+    {
+     "text": "Neonatos de 2.000gr.",
+     "isCorrect": false
+    },
+    {
+     "text": "Neonatos de 1000gr.",
+     "isCorrect": true
+    }
+   ]
+  },
+  {
+   "text": "El baño del neonato, ¿Cuánto debe durar?",
+   "options": [
+    {
+     "text": "5-10 minutos.",
+     "isCorrect": true
+    },
+    {
+     "text": "25-30 minutos.",
+     "isCorrect": false
+    },
+    {
+     "text": "15-20 minutos.",
+     "isCorrect": false
+    },
+    {
+     "text": "Todas son correctas.",
+     "isCorrect": false
+    }
+   ]
+  },
+  {
+   "text": "La leche definitiva es más rica que el calostro en...",
+   "options": [
+    {
+     "text": "En proteínas.",
+     "isCorrect": false
+    },
+    {
+     "text": "En lactosa.",
+     "isCorrect": true
+    },
+    {
+     "text": "En vitaminas.",
+     "isCorrect": false
+    },
+    {
+     "text": "En sodio.",
+     "isCorrect": false
+    }
+   ]
+  },
+  {
+   "text": "¿Qué grado de humedad debe tener una incubadora?",
+   "options": [
+    {
+     "text": "10-20%.",
+     "isCorrect": false
+    },
+    {
+     "text": "10-15%.",
+     "isCorrect": false
+    },
+    {
+     "text": "50-60%.",
+     "isCorrect": true
+    },
+    {
+     "text": "5-10%.",
+     "isCorrect": false
+    }
+   ]
+  },
+  {
+   "text": "El tiempo máximo que debe guardar la leche materna en el frigorífico es de ...",
+   "options": [
+    {
+     "text": "15 días.",
+     "isCorrect": false
+    },
+    {
+     "text": "3 días.",
+     "isCorrect": false
+    },
+    {
+     "text": "3 meses.",
+     "isCorrect": false
+    },
+    {
+     "text": "5 días.",
+     "isCorrect": true
+    }
+   ]
+  },
+  {
+   "text": "¿En la alimentación complementaria, que tipo de alimento es el primero que se da?",
+   "options": [
+    {
+     "text": "Zumo de frutas.",
+     "isCorrect": true
+    },
+    {
+     "text": "Puré de verduras con carne de ternera.",
+     "isCorrect": false
+    },
+    {
+     "text": "Puré de frutas.",
+     "isCorrect": false
+    },
+    {
+     "text": "Todas son correctas",
+     "isCorrect": false
+    }
+   ]
+  },
+  {
+   "text": "¿El reflejo de Moro, cuando desaparece normalmente?",
+   "options": [
+    {
+     "text": "Entre el tercer y cuarto mes.",
+     "isCorrect": false
+    },
+    {
+     "text": "Entre el segundo y tercer mes.",
+     "isCorrect": true
+    },
+    {
+     "text": "Entre los 15 días de vida y el primer mes.",
+     "isCorrect": false
+    },
+    {
+     "text": "Ninguna es correcta.",
+     "isCorrect": false
+    }
+   ]
+  },
+  {
+   "text": "¿Con que está relacionada la ictericia fisiológica?",
+   "options": [
+    {
+     "text": "Incompatibilidad Rh madre/neonato.",
+     "isCorrect": false
+    },
+    {
+     "text": "Inmadurez renal del neonato.",
+     "isCorrect": false
+    },
+    {
+     "text": "Inmadurez hepática del neonato.",
+     "isCorrect": true
+    },
+    {
+     "text": "Ninguna es correcta.",
+     "isCorrect": false
+    }
+   ]
+  },
+  {
+   "text": "La medida en un recién nacido estará en torno a:",
+   "options": [
+    {
+     "text": "30 cm.",
+     "isCorrect": false
+    },
+    {
+     "text": "40 cm.",
+     "isCorrect": false
+    },
+    {
+     "text": "45 cm.",
+     "isCorrect": false
+    },
+    {
+     "text": "50 cm.",
+     "isCorrect": true
+    }
+   ]
+  },
+  {
+   "text": "En la cicatrización de heridas que factores influyen:",
+   "options": [
+    {
+     "text": "Fármacos y nutrición",
+     "isCorrect": false
+    },
+    {
+     "text": "Nutrición y obesidad.",
+     "isCorrect": false
+    },
+    {
+     "text": "Obesidad.",
+     "isCorrect": false
+    },
+    {
+     "text": "Fármacos, obesidad, y nutrición.",
+     "isCorrect": true
+    }
+   ]
+  },
+  {
+   "text": "Señale lo que no debe hacerse con un paciente que presenta una herida grave:",
+   "options": [
+    {
+     "text": "No trasladar al paciente.",
+     "isCorrect": false
+    },
+    {
+     "text": "Quitar los cuerpos extraños visibles, aunque estén profundos.",
+     "isCorrect": false
+    },
+    {
+     "text": "No se debe tocar la herida",
+     "isCorrect": false
+    },
+    {
+     "text": "A y B son correctas.",
+     "isCorrect": true
+    }
+   ]
+  },
+  {
+   "text": "Todos son factores internos que influyen en la cicatrización de las heridas, menos:",
+   "options": [
+    {
+     "text": "La Humedad Ambiental",
+     "isCorrect": true
+    },
+    {
+     "text": "Estrés.",
+     "isCorrect": false
+    },
+    {
+     "text": "Estado nutricional.",
+     "isCorrect": false
+    },
+    {
+     "text": "Sistema circulatorio.",
+     "isCorrect": false
+    }
+   ]
+  },
+  {
+   "text": "Como se denominan las heridas producidas por objetos cortantes:",
+   "options": [
+    {
+     "text": "Heridas incisas.",
+     "isCorrect": true
+    },
+    {
+     "text": "Heridas contusas.",
+     "isCorrect": false
+    },
+    {
+     "text": "Heridas mixtas.",
+     "isCorrect": false
+    },
+    {
+     "text": "Todas son correctas.",
+     "isCorrect": false
+    }
+   ]
+  },
+  {
+   "text": "Cuando se hace evidente la infección de una herida:",
+   "options": [
+    {
+     "text": "Entre 2 y 11 días del postoperatorio.",
+     "isCorrect": true
+    },
+    {
+     "text": "A los 15 días del postoperatorio.",
+     "isCorrect": false
+    },
+    {
+     "text": "Entre 2 y 10 días del postoperatorio.",
+     "isCorrect": false
+    },
+    {
+     "text": "Entre 3 y 7 días del postoperatorio.",
+     "isCorrect": false
+    }
+   ]
+  },
+  {
+   "text": "¿Qué factor forma parte de la cicatrización de las heridas?",
+   "options": [
+    {
+     "text": "Sistema respiratorio.",
+     "isCorrect": false
+    },
+    {
+     "text": "Huésped comprometido.",
+     "isCorrect": true
+    },
+    {
+     "text": "Depresión",
+     "isCorrect": false
+    },
+    {
+     "text": "Estrés.",
+     "isCorrect": false
+    }
+   ]
+  },
+  {
+   "text": "Como se clasifican las fracturas abiertas:",
+   "options": [
+    {
+     "text": "Parcial y total.",
+     "isCorrect": false
+    },
+    {
+     "text": "No se clasifican.",
+     "isCorrect": false
+    },
+    {
+     "text": "Grado I. II. III.",
+     "isCorrect": true
+    },
+    {
+     "text": "Ninguna es correcta.",
+     "isCorrect": false
+    }
+   ]
+  },
+  {
+   "text": "Una Fractura abierta grado IV:",
+   "options": [
+    {
+     "text": "Es más grave, con lesión amplia de tejidos blandos y alto grado de contaminación.",
+     "isCorrect": false
+    },
+    {
+     "text": "Es una herida abierta de menos de 2 cm de longitud.",
+     "isCorrect": false
+    },
+    {
+     "text": "A y B son correctas.",
+     "isCorrect": false
+    },
+    {
+     "text": "No existe el grado IV de fractura abierta.",
+     "isCorrect": true
+    }
+   ]
+  },
+  {
+   "text": "Entre las fases de cicatrización de los huesos, se encuentra:",
+   "options": [
+    {
+     "text": "Osificación.",
+     "isCorrect": true
+    },
+    {
+     "text": "Epifisaria.",
+     "isCorrect": false
+    },
+    {
+     "text": "Oblicua.",
+     "isCorrect": false
+    },
+    {
+     "text": "Ninguna es correcta.",
+     "isCorrect": false
+    }
+   ]
+  },
+  {
+   "text": "Al omoplato se le conoce también con el nombre de:",
+   "options": [
+    {
+     "text": "Coxal.",
+     "isCorrect": false
+    },
+    {
+     "text": "Escápula.",
+     "isCorrect": true
+    },
+    {
+     "text": "Clavícula.",
+     "isCorrect": false
+    },
+    {
+     "text": "Costilla",
+     "isCorrect": false
+    }
+   ]
+  },
+  {
+   "text": "¿Cómo se denomina el dedo gordo del pie?",
+   "options": [
+    {
+     "text": "Cuboides.",
+     "isCorrect": false
+    },
+    {
+     "text": "Astrágalo.",
+     "isCorrect": false
+    },
+    {
+     "text": "Hállux.",
+     "isCorrect": true
+    },
+    {
+     "text": "Ninguna es correcta.",
+     "isCorrect": false
+    }
+   ]
+  },
+  {
+   "text": "¿Qué es una fractura abierta?:",
+   "options": [
+    {
+     "text": "Es aquella que afecta a músculos y vísceras.",
+     "isCorrect": false
+    },
+    {
+     "text": "Es la que no tiene posibilidad de tratamiento quirúrgico.",
+     "isCorrect": false
+    },
+    {
+     "text": "Es aquella que perfora la piel y mucosas.",
+     "isCorrect": true
+    },
+    {
+     "text": "Ninguna es correcta.",
+     "isCorrect": false
+    }
+   ]
+  },
+  {
+   "text": "¿En qué etapa del enfermo terminal el paciente se vuelve poco tolerante e irascible y acusa injustamente a los demás de su situación?",
+   "options": [
+    {
+     "text": "Negación.",
+     "isCorrect": false
+    },
+    {
+     "text": "Aceptación.",
+     "isCorrect": false
+    },
+    {
+     "text": "Ira y rabia.",
+     "isCorrect": true
+    },
+    {
+     "text": "Depresión.",
+     "isCorrect": false
+    }
+   ]
+  },
+  {
+   "text": "¿Cuál de las siguientes actuaciones considerarías como una intervención paliativa de la enfermedad?",
+   "options": [
+    {
+     "text": "Extirpar un tumor que se expande a tejidos adyacentes.",
+     "isCorrect": false
+    },
+    {
+     "text": "Proporcionar un medicamento para evitar el dolor ocasionado por la enfermedad.",
+     "isCorrect": true
+    },
+    {
+     "text": "Reconstruir un pecho para mejorar la estética.",
+     "isCorrect": false
+    },
+    {
+     "text": "Ninguna es correcta.",
+     "isCorrect": false
+    }
+   ]
+  },
+  {
+   "text": "Cuando hablamos de utilización de medidas extraordinarias que no reportan ningún beneficio al enfermo, para prolongar su vida. Hablamos de:",
+   "options": [
+    {
+     "text": "Ortotanasia.",
+     "isCorrect": false
+    },
+    {
+     "text": "Eutanasia.",
+     "isCorrect": false
+    },
+    {
+     "text": "Distanasia.",
+     "isCorrect": true
+    },
+    {
+     "text": "Todas son correctas.",
+     "isCorrect": false
+    }
+   ]
+  },
+  {
+   "text": "Sobre los esputos, señale la respuesta correcta.",
+   "options": [
+    {
+     "text": "Los esputos son productos acumulados en el árbol pulmonar y que se expulsan acompañados de tos.",
+     "isCorrect": true
+    },
+    {
+     "text": "La cantidad en 24/horas es muy pequeña en caso de bronquiectasias, tuberculosis, edemas pulmonares, etc.",
+     "isCorrect": false
+    },
+    {
+     "text": "El color no depende de la cantidad de supuración que contenga.",
+     "isCorrect": false
+    },
+    {
+     "text": "En ocasiones son masas líquidas en forma de tapones (de Dittrich).",
+     "isCorrect": false
+    }
+   ]
+  },
+  {
+   "text": "Las drogas se han convertido en un fenómeno social, que una persona consuma, o no, depende de...",
+   "options": [
+    {
+     "text": "De su personalidad.",
+     "isCorrect": false
+    },
+    {
+     "text": "Sistema de valores.",
+     "isCorrect": false
+    },
+    {
+     "text": "Ambiente donde reside.",
+     "isCorrect": false
+    },
+    {
+     "text": "Todas son correctas.",
+     "isCorrect": true
+    }
+   ]
+  },
+  {
+   "text": "El proceso del Duelo. De forma general, se puede distinguir en tres etapas, cual no es la correcta.",
+   "options": [
+    {
+     "text": "Shock e incredulidad.",
+     "isCorrect": false
+    },
+    {
+     "text": "Regresión.",
+     "isCorrect": true
+    },
+    {
+     "text": "Preocupación.",
+     "isCorrect": false
+    },
+    {
+     "text": "Resolución de la pérdida.",
+     "isCorrect": false
+    }
+   ]
+  },
+  {
+   "text": "¿Cuál de los siguientes trastornos mentales es más frecuente en la sociedad?",
+   "options": [
+    {
+     "text": "Paranoia.",
+     "isCorrect": false
+    },
+    {
+     "text": "Esquizofrenia.",
+     "isCorrect": false
+    },
+    {
+     "text": "Depresión",
+     "isCorrect": true
+    },
+    {
+     "text": "Trastorno Bipolar.",
+     "isCorrect": false
+    }
+   ]
+  },
+  {
+   "text": "En Canarias, los dispositivos sanitarios para la atención a la salud mental, se distribuyen en recursos ambulatorios y hospitalarios, cuál de los siguientes no es hospitalario.",
+   "options": [
+    {
+     "text": "Hospitales de día Infanto-Juveniles.",
+     "isCorrect": true
+    },
+    {
+     "text": "Unidades de Media Estancia (UME).",
+     "isCorrect": false
+    },
+    {
+     "text": "Unidades de internamiento Breve.",
+     "isCorrect": false
+    },
+    {
+     "text": "Unidades clínicas y de rehabilitación de Salud Mental.",
+     "isCorrect": false
+    }
+   ]
+  },
+  {
+   "text": "¿Qué edad está definida por la capacidad de mantener los roles personales y la integración social del individuo en la comunidad?",
+   "options": [
+    {
+     "text": "Cronológica.",
+     "isCorrect": false
+    },
+    {
+     "text": "Psíquica.",
+     "isCorrect": false
+    },
+    {
+     "text": "Fisiológica.",
+     "isCorrect": false
+    },
+    {
+     "text": "Funcional.",
+     "isCorrect": true
+    }
+   ]
+  },
+  {
+   "text": "Respecto a las modificaciones ligadas al proceso de envejecimiento No es cierto que:",
+   "options": [
+    {
+     "text": "La osteoporosis en la mujer se acelera más, en los dos primeros años después de la menopausia.",
+     "isCorrect": true
+    },
+    {
+     "text": "Disminución del sentido del gusto.",
+     "isCorrect": false
+    },
+    {
+     "text": "Pérdida de masa ósea.",
+     "isCorrect": false
+    },
+    {
+     "text": "El riñón experimenta una pérdida de volumen (del 25 y 40%).",
+     "isCorrect": false
+    }
+   ]
+  },
+  {
+   "text": "Si queremos valorar la movilidad de un individuo, a través de la marcha y el equilibrio, hablamos de:",
+   "options": [
+    {
+     "text": "Escala de Lawton.",
+     "isCorrect": false
+    },
+    {
+     "text": "Escala de Barthel.",
+     "isCorrect": false
+    },
+    {
+     "text": "Escala de Tinetti.",
+     "isCorrect": true
+    },
+    {
+     "text": "Índice de Kat.",
+     "isCorrect": false
+    }
+   ]
+  },
+  {
+   "text": "En el inicio del ingreso de un paciente con indicios de un posible riesgo autolítico, antes de ser valorado por el servicio de psiquiatría, que no debemos hacer.",
+   "options": [
+    {
+     "text": "Transmitir mensajes no verbales de aceptación y respeto.",
+     "isCorrect": false
+    },
+    {
+     "text": "Ser condescendiente.",
+     "isCorrect": true
+    },
+    {
+     "text": "Centrarse en sus sentimientos.",
+     "isCorrect": false
+    },
+    {
+     "text": "Empatizar, entender sus sentimientos.",
+     "isCorrect": false
+    }
+   ]
+  },
+  {
+   "text": "Para generar una ulcera por presión (UPP) sería suficiente. Señala la correcta:",
+   "options": [
+    {
+     "text": "Presiones pequeñas mantenidas durante periodos de tiempo prolongado, como presiones elevadas mantenidas durante 4 horas.",
+     "isCorrect": false
+    },
+    {
+     "text": "Presiones pequeñas mantenidas durante periodos de tiempo prolongado, como presiones elevadas mantenidas durante 2 horas.",
+     "isCorrect": true
+    },
+    {
+     "text": "Presiones pequeñas mantenidas durante periodo de tiempo prolongado, como presiones elevadas durante 24 horas.",
+     "isCorrect": false
+    },
+    {
+     "text": "Presiones pequeñas mantenidas durante periodo de tiempo prolongado, como presiones elevadas durante 8 horas.",
+     "isCorrect": false
+    }
+   ]
+  },
+  {
+   "text": "El sistema de clasificación de las UPP en cuatro categorías se establece en base al alcance en profundidad de la lesión. A que categoría correspondería la pérdida total del espesor de los tejidos.",
+   "options": [
+    {
+     "text": "Categoría I.",
+     "isCorrect": false
+    },
+    {
+     "text": "Categoría II.",
+     "isCorrect": false
+    },
+    {
+     "text": "Categoría III.",
+     "isCorrect": false
+    },
+    {
+     "text": "Categoría IV.",
+     "isCorrect": true
+    }
+   ]
+  },
+  {
+   "text": "Las localizaciones de las UPP (ulceras por presión) debidas a Dispositivos sanitarios (DS) depende del juicio clínico de la enfermera y de las acciones de prevención. Cual de este dispositivo no causaría UPP en la Nariz.",
+   "options": [
+    {
+     "text": "Gafas Nasales.",
+     "isCorrect": false
+    },
+    {
+     "text": "Sondas Nasogástricas.",
+     "isCorrect": false
+    },
+    {
+     "text": "Drenajes.",
+     "isCorrect": true
+    },
+    {
+     "text": "Mascarilla.",
+     "isCorrect": false
+    }
+   ]
+  },
+  {
+   "text": "Las localizaciones más frecuentes de las UPP se corresponden con zonas de apoyo, zonas del cuerpo que soportan mayor presión. Si el paciente está en decúbito lateral, que zona no se localizaría UPP",
+   "options": [
+    {
+     "text": "Maléolos.",
+     "isCorrect": false
+    },
+    {
+     "text": "Costillas.",
+     "isCorrect": false
+    },
+    {
+     "text": "Orejas.",
+     "isCorrect": false
+    },
+    {
+     "text": "Coxis.",
+     "isCorrect": true
+    }
+   ]
+  },
+  {
+   "text": "Dentro de las medidas de prevención de UPP, cual no es correcta.",
+   "options": [
+    {
+     "text": "Control de humedad.",
+     "isCorrect": false
+    },
+    {
+     "text": "Educación sanitaria.",
+     "isCorrect": false
+    },
+    {
+     "text": "Gasto sanitario.",
+     "isCorrect": true
+    },
+    {
+     "text": "Valoración y cuidados nutricionales.",
+     "isCorrect": false
+    }
+   ]
+  },
+  {
+   "text": "Cuál de estos factores de riesgo en la aparición de UPP, no es un factor intrínseco:",
+   "options": [
+    {
+     "text": "Diabetes.",
+     "isCorrect": false
+    },
+    {
+     "text": "Incontinencia Urinaria.",
+     "isCorrect": false
+    },
+    {
+     "text": "Humedad.",
+     "isCorrect": true
+    },
+    {
+     "text": "Inconsciencia",
+     "isCorrect": false
+    }
+   ]
+  },
+  {
+   "text": "La Escala Norton, mide el riesgo que tiene un paciente de padecer úlceras por presión UPP, que valoración de riesgo no es correcta.",
+   "options": [
+    {
+     "text": "De 10 a 12 riesgo alto.",
+     "isCorrect": false
+    },
+    {
+     "text": "De 11 a 20 riesgo mínimo.",
+     "isCorrect": true
+    },
+    {
+     "text": "De 5 a 9 riesgo muy alto.",
+     "isCorrect": false
+    },
+    {
+     "text": "De 13 a 14 riesgo medio.",
+     "isCorrect": false
+    }
+   ]
+  },
+  {
+   "text": "Para minimizar el efecto de la presión como causa de UPP, se recomienda considerar cuatro elementos, cuál de estos no es correcto.",
+   "options": [
+    {
+     "text": "Cambios posturales.",
+     "isCorrect": false
+    },
+    {
+     "text": "Utilización de flotadores cuando el individuo esté en sedestación.",
+     "isCorrect": true
+    },
+    {
+     "text": "Protección local ante la presión.",
+     "isCorrect": false
+    },
+    {
+     "text": "Movilización.",
+     "isCorrect": false
+    }
+   ]
+  },
+  {
+   "text": "En pacientes encamados por norma general se recomienda realizar cambios posturales siguiendo una rotación programada cada:",
+   "options": [
+    {
+     "text": "Cada 4 o 5 horas.",
+     "isCorrect": false
+    },
+    {
+     "text": "Cada 8 Horas.",
+     "isCorrect": false
+    },
+    {
+     "text": "Cada 2 o 3 horas.",
+     "isCorrect": true
+    },
+    {
+     "text": "Cada 10 horas.",
+     "isCorrect": false
+    }
+   ]
+  },
+  {
+   "text": "Cuál de estas fases, no forman parte del proceso de cicatrización de Las UPP",
+   "options": [
+    {
+     "text": "Inflamación.",
+     "isCorrect": false
+    },
+    {
+     "text": "Epitelización.",
+     "isCorrect": false
+    },
+    {
+     "text": "Exudado.",
+     "isCorrect": true
+    },
+    {
+     "text": "Hemostasia.",
+     "isCorrect": false
+    }
+   ]
+  },
+  {
+   "text": "Cual no es un método de obtención de una muestra de exudado para el cultivo de microorganimos.",
+   "options": [
+    {
+     "text": "Aspiración percutánea.",
+     "isCorrect": false
+    },
+    {
+     "text": "Apósito.",
+     "isCorrect": true
+    },
+    {
+     "text": "El frotis mediante hisopo.",
+     "isCorrect": false
+    },
+    {
+     "text": "Biopsia tisular.",
+     "isCorrect": false
+    }
+   ]
+  },
+  {
+   "text": "Los productos que generan unas condiciones óptimas que favorecen el cierre de heridas crónicas UPP, se basan en la cura en ambiente húmedo. Cual no es correcta.",
+   "options": [
+    {
+     "text": "Hidrocoloides.",
+     "isCorrect": false
+    },
+    {
+     "text": "Apósito de Gasa.",
+     "isCorrect": true
+    },
+    {
+     "text": "Hidrogeles.",
+     "isCorrect": false
+    },
+    {
+     "text": "Hidrofibras gelificantes.",
+     "isCorrect": false
+    }
+   ]
+  },
+  {
+   "text": "La situación que altera notablemente el orden normal de las cosas y provoca una trágica desproporción entre las necesidades y los medios se denomina:",
+   "options": [
+    {
+     "text": "Siniestro.",
+     "isCorrect": false
+    },
+    {
+     "text": "Catástrofe.",
+     "isCorrect": true
+    },
+    {
+     "text": "Accidente.",
+     "isCorrect": false
+    },
+    {
+     "text": "Emergencia.",
+     "isCorrect": false
+    }
+   ]
+  },
+  {
+   "text": "Cuando hablamos de quemaduras que pueden afectar a la parte superficial y profunda de la dermis hablamos de quemaduras de:",
+   "options": [
+    {
+     "text": "Tercer grado.",
+     "isCorrect": false
+    },
+    {
+     "text": "Primer Grado.",
+     "isCorrect": false
+    },
+    {
+     "text": "Cuarto Grado.",
+     "isCorrect": false
+    },
+    {
+     "text": "Segundo Grado.",
+     "isCorrect": true
+    }
+   ]
+  },
+  {
+   "text": "El primer parámetro que hay que valorar ante una situación de emergencia, que nos puede orientar sobre la gravedad del accidentado es:",
+   "options": [
+    {
+     "text": "Valoración de hemorragias internas.",
+     "isCorrect": false
+    },
+    {
+     "text": "Valoración del nivel de conciencia.",
+     "isCorrect": true
+    },
+    {
+     "text": "Valoración del politraumatismo.",
+     "isCorrect": false
+    },
+    {
+     "text": "Valoración del color y temperatura de la piel.",
+     "isCorrect": false
+    }
+   ]
+  },
+  {
+   "text": "Un carro de parada no contiene:",
+   "options": [
+    {
+     "text": "Pinzas de Magill.",
+     "isCorrect": false
+    },
+    {
+     "text": "Pilas.",
+     "isCorrect": false
+    },
+    {
+     "text": "Monitor Desfibrilador.",
+     "isCorrect": false
+    },
+    {
+     "text": "Sonda Vesical.",
+     "isCorrect": true
+    }
+   ]
+  },
+  {
+   "text": "Según la procedencia de la hemorragia se habla de:",
+   "options": [
+    {
+     "text": "Hemoptisis.",
+     "isCorrect": false
+    },
+    {
+     "text": "Petequias.",
+     "isCorrect": false
+    },
+    {
+     "text": "Epistaxis.",
+     "isCorrect": false
+    },
+    {
+     "text": "Todas son correctas.",
+     "isCorrect": true
+    }
+   ]
+  },
+  {
+   "text": "En un politraumatizado, el examen neurológico inicial debe incluir la inspección del tamaño y reactividad pupilar. Cual no pertenece a la clasificación pupilar por su tamaño:",
+   "options": [
+    {
+     "text": "Mioticas.",
+     "isCorrect": false
+    },
+    {
+     "text": "Midriáticas.",
+     "isCorrect": false
+    },
+    {
+     "text": "Reactivas.",
+     "isCorrect": true
+    },
+    {
+     "text": "Medias.",
+     "isCorrect": false
+    }
+   ]
+  },
+  {
+   "text": "Para valorar una quemadura, el primer factor a valorar es su extensión, para ello se utiliza la regla de los nueve, cuál de ellos no es correcto:",
+   "options": [
+    {
+     "text": "Extremidad inferior 18%.",
+     "isCorrect": false
+    },
+    {
+     "text": "Genitales 1%.",
+     "isCorrect": false
+    },
+    {
+     "text": "Tronco Posterior 18%.",
+     "isCorrect": false
+    },
+    {
+     "text": "Cabeza y cuello 11%.",
+     "isCorrect": true
+    }
+   ]
+  },
+  {
+   "text": "El shok distributivo o vasogénico, se debe a una mala distribución del flujo sanguíneo, cuál de ellos no lo es:",
+   "options": [
+    {
+     "text": "Shock neurogénico.",
+     "isCorrect": false
+    },
+    {
+     "text": "Shock anafiláctico.",
+     "isCorrect": false
+    },
+    {
+     "text": "Shock hemorrágico.",
+     "isCorrect": true
+    },
+    {
+     "text": "Shok Séptico.",
+     "isCorrect": false
+    }
+   ]
+  },
+  {
+   "text": "La sangre procedente del aparato digestivo, que es expulsada con el vómito se denomina:",
+   "options": [
+    {
+     "text": "Epistaxis.",
+     "isCorrect": false
+    },
+    {
+     "text": "Melenas.",
+     "isCorrect": false
+    },
+    {
+     "text": "Hematemesis.",
+     "isCorrect": true
+    },
+    {
+     "text": "Hemoptisis.",
+     "isCorrect": false
+    }
+   ]
+  },
+  {
+   "text": "La Activación precoz de los servicios de emergencia sanitaria, RCP Básica, Desfibrilación Precoz, Soporte vital básico. Son los cuatro eslabones que componen la:",
+   "options": [
+    {
+     "text": "Reanimación cardiopulmonar básica.",
+     "isCorrect": false
+    },
+    {
+     "text": "Parada respiratoria.",
+     "isCorrect": false
+    },
+    {
+     "text": "Cadena Supervivencia.",
+     "isCorrect": true
+    },
+    {
+     "text": "Reanimación cardiopulmonar avanzada.",
+     "isCorrect": false
+    }
+   ]
+  },
+  {
+   "text": "Existen distintos tipos de fracturas, cuál de ellas no lo es:",
+   "options": [
+    {
+     "text": "Fisura.",
+     "isCorrect": false
+    },
+    {
+     "text": "Acortamiento.",
+     "isCorrect": true
+    },
+    {
+     "text": "Patológica.",
+     "isCorrect": false
+    },
+    {
+     "text": "Cerrada.",
+     "isCorrect": false
+    }
+   ]
+  },
+  {
+   "text": "Se pueden realizar diferentes tipos de vendajes, teniendo en cuenta cómo se dispone la venda sobre la zona anatómica del cuerpo. Cual no es la correcta.",
+   "options": [
+    {
+     "text": "En Espiga",
+     "isCorrect": false
+    },
+    {
+     "text": "En ocho",
+     "isCorrect": false
+    },
+    {
+     "text": "Elásticas",
+     "isCorrect": true
+    },
+    {
+     "text": "Espirales",
+     "isCorrect": false
+    }
+   ]
+  },
+  {
+   "text": "En qué País Europeo (1833) se crean los primeros Seguros Sociales que dan cobertura a los trabajadores.",
+   "options": [
+    {
+     "text": "Francia.",
+     "isCorrect": false
+    },
+    {
+     "text": "España.",
+     "isCorrect": false
+    },
+    {
+     "text": "Alemania.",
+     "isCorrect": true
+    },
+    {
+     "text": "Ninguno es correcto.",
+     "isCorrect": false
+    }
+   ]
+  },
+  {
+   "text": "Después de La Segunda Guerra Mundial en Europa sobre todo, empieza a desarrollarse el concepto de Seguridad Social, que en su campo de actuaciones recoge también.",
+   "options": [
+    {
+     "text": "La creación de los servicios médicos de empresa.",
+     "isCorrect": false
+    },
+    {
+     "text": "La realización de las correspondientes inspecciones de trabajo.",
+     "isCorrect": false
+    },
+    {
+     "text": "La protección social de los trabajadores.",
+     "isCorrect": false
+    },
+    {
+     "text": "Todas son correctas.",
+     "isCorrect": true
+    }
+   ]
+  },
+  {
+   "text": "En España la Norma básica que regula en la actualidad la materia de Prevención de Riesgos Laborales es la Ley.",
+   "options": [
+    {
+     "text": "Ley 31/1997, de 8 de noviembre, de Prevención de Riesgos Laborales.",
+     "isCorrect": false
+    },
+    {
+     "text": "Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales.",
+     "isCorrect": true
+    },
+    {
+     "text": "Ley 31/1995, de 5 de noviembre de Prevención de Riesgos Laborales.",
+     "isCorrect": false
+    },
+    {
+     "text": "Ley 30/1995, de 5 de noviembre de Prevención de Riesgos Laborales.",
+     "isCorrect": false
+    }
+   ]
+  },
+  {
+   "text": "Dentro de la diversificación de Higiene en el trabajo. Si hablamos de la identificación cualitativa y cuantitativa de los agentes nocivos, nos referimos a:",
+   "options": [
+    {
+     "text": "Higiene de campo.",
+     "isCorrect": false
+    },
+    {
+     "text": "Higiene operativa.",
+     "isCorrect": false
+    },
+    {
+     "text": "Higiene Analítica.",
+     "isCorrect": true
+    },
+    {
+     "text": "Higiene Teórica.",
+     "isCorrect": false
+    }
+   ]
+  },
+  {
+   "text": "Cuál de estos casos no se considera accidente de trabajo",
+   "options": [
+    {
+     "text": "Las enfermedades o defectos, padecidos con anterioridad por el trabajador que se agraven como consecuencia del accidente.",
+     "isCorrect": false
+    },
+    {
+     "text": "Los que sean debido a dolo o a imprudencia del trabajador accidentado.",
+     "isCorrect": true
+    },
+    {
+     "text": "Los que sufra el trabajador al ir o volver del lugar de trabajo.",
+     "isCorrect": false
+    },
+    {
+     "text": "Los acaecidos en actos de salvamento y en otros de naturaleza análoga, cuando tengan conexión con el trabajo.",
+     "isCorrect": false
+    }
+   ]
+  },
+  {
+   "text": "Los trabajadores de la salud deben utilizar por rutina los elementos de protección de barrera, cuando estén en contacto directo con sangre o fluidos corporales. Cuál de estos elementos no es de protección de barrera",
+   "options": [
+    {
+     "text": "Mascarillas.",
+     "isCorrect": false
+    },
+    {
+     "text": "Guantes.",
+     "isCorrect": false
+    },
+    {
+     "text": "Vacunas.",
+     "isCorrect": true
+    },
+    {
+     "text": "Batas.",
+     "isCorrect": false
+    }
+   ]
+  },
+  {
+   "text": "Para reducir al mínimo las lesiones producidas en el personal de la salud por pinchazos y cortes. Es necesario:",
+   "options": [
+    {
+     "text": "No encapsular agujas ni objetos cortantes.",
+     "isCorrect": false
+    },
+    {
+     "text": "Los objetos punzantes, deberán ser depositados en contenedores apropiados con tapa de seguridad.",
+     "isCorrect": false
+    },
+    {
+     "text": "Tomar precaución al utilizarlo y en el momento de limpieza y eliminación.",
+     "isCorrect": false
+    },
+    {
+     "text": "Todas son correctas.",
+     "isCorrect": true
+    }
+   ]
+  },
+  {
+   "text": "Conducta a seguir ante un accidente laboral con exposición a sangre y fluidos corporales contaminados. Cual no es exacta.",
+   "options": [
+    {
+     "text": "Lavarse cuidadosamente la herida con abundante agua y jabón.",
+     "isCorrect": false
+    },
+    {
+     "text": "Ir al Centro de Salud.",
+     "isCorrect": true
+    },
+    {
+     "text": "Comunicar inmediatamente la incidencia a supervisor.",
+     "isCorrect": false
+    },
+    {
+     "text": "Comunicarlo a Medicina preventiva",
+     "isCorrect": false
+    }
+   ]
+  },
+  {
+   "text": "En el ámbito laboral se pueden distinguir variantes o modalidades de mobbing, cual es la correcta.",
+   "options": [
+    {
+     "text": "Mobbing horizontal.",
+     "isCorrect": false
+    },
+    {
+     "text": "Mobbing ascendente.",
+     "isCorrect": false
+    },
+    {
+     "text": "Mobbing descendente.",
+     "isCorrect": false
+    },
+    {
+     "text": "Todas son correctas.",
+     "isCorrect": true
+    }
+   ]
+  },
+  {
+   "text": "Una persona afectada por mobbing puede presentar diversos trastornos en su salud, cuál de estos no lo es.",
+   "options": [
+    {
+     "text": "Trastornos psicosomáticos.",
+     "isCorrect": false
+    },
+    {
+     "text": "Ansiedad.",
+     "isCorrect": false
+    },
+    {
+     "text": "Traumatismo.",
+     "isCorrect": true
+    },
+    {
+     "text": "Depresión.",
+     "isCorrect": false
+    }
+   ]
+  },
+  {
+   "text": "Cuál de las siguientes causas, no pertenece a las causas más importantes del síndrome del burnout (síndrome de quemado)",
+   "options": [
+    {
+     "text": "La Edad.",
+     "isCorrect": false
+    },
+    {
+     "text": "Turnicidad.",
+     "isCorrect": false
+    },
+    {
+     "text": "La psicoterapia.",
+     "isCorrect": true
+    },
+    {
+     "text": "La profesión.",
+     "isCorrect": false
+    }
+   ]
+  },
+  {
+   "text": "Con la Esterilización se produce la destrucción de todos los gérmenes, incluidos esporas bacterianas. Cual no es correcta",
+   "options": [
+    {
+     "text": "Autoclave.",
+     "isCorrect": false
+    },
+    {
+     "text": "Calor Seco.",
+     "isCorrect": false
+    },
+    {
+     "text": "Productos químicos.",
+     "isCorrect": true
+    },
+    {
+     "text": "Óxido de Etileno.",
+     "isCorrect": false
+    }
+   ]
+  },
+  {
+   "text": "El objetivo general de información sanitaria del Sistema Nacional de Salud será responder a las necesidades de los siguientes colectivos:",
+   "options": [
+    {
+     "text": "Ciudadanos.",
+     "isCorrect": false
+    },
+    {
+     "text": "Organizaciones y Asociaciones en el ámbito Sanitario.",
+     "isCorrect": false
+    },
+    {
+     "text": "Profesionales.",
+     "isCorrect": false
+    },
+    {
+     "text": "Todas son correctas.",
+     "isCorrect": true
+    }
+   ]
+  },
+  {
+   "text": "En los centros de atención primaria reciben desde administración la hoja de consulta diaria que incluye todos los pacientes que vamos a atender. ¿Qué dato no consta en esa hoja?",
+   "options": [
+    {
+     "text": "Numero de Historia.",
+     "isCorrect": false
+    },
+    {
+     "text": "Estado civil.",
+     "isCorrect": true
+    },
+    {
+     "text": "Edad y sexo.",
+     "isCorrect": false
+    },
+    {
+     "text": "Motivo de la Consulta.",
+     "isCorrect": false
+    }
+   ]
+  },
+  {
+   "text": "Dentro de los documentos clínicos de uso en Atención Primaria, el impreso, para dirigir a otros servicios o a otros centros sanitarios sería:",
+   "options": [
+    {
+     "text": "Historia de Enfermería.",
+     "isCorrect": false
+    },
+    {
+     "text": "Impreso de citación.",
+     "isCorrect": false
+    },
+    {
+     "text": "Impreso de solicitud de pruebas complementarias.",
+     "isCorrect": true
+    },
+    {
+     "text": "Historia Médica.",
+     "isCorrect": false
+    }
+   ]
+  },
+  {
+   "text": "Cuál de los siguientes no es un documento clínico de uso hospitalario:",
+   "options": [
+    {
+     "text": "Informe Médico de Urgencias.",
+     "isCorrect": false
+    },
+    {
+     "text": "Registro de nacimiento.",
+     "isCorrect": true
+    },
+    {
+     "text": "Impresos de consentimiento informado.",
+     "isCorrect": false
+    },
+    {
+     "text": "Orden de tratamiento.",
+     "isCorrect": false
+    }
+   ]
+  },
+  {
+   "text": "Las hojas de valoración del paciente, tiene dos partes, la recogida de datos y el registro de los mismos. Se debe realizar:",
+   "options": [
+    {
+     "text": "En las 4 horas primeras del ingreso.",
+     "isCorrect": false
+    },
+    {
+     "text": "En las 12 horas primeras del ingreso.",
+     "isCorrect": false
+    },
+    {
+     "text": "En las 10 horas primeras del ingreso.",
+     "isCorrect": false
+    },
+    {
+     "text": "En las 24 horas del ingreso.",
+     "isCorrect": true
+    }
+   ]
+  },
+  {
+   "text": "El documento donde deben anotarse las incidencias que se producen a lo largo del día en la asistencia al paciente es:",
+   "options": [
+    {
+     "text": "Hoja de Valoración de paciente.",
+     "isCorrect": false
+    },
+    {
+     "text": "Informe de Alta de Enfermería.",
+     "isCorrect": false
+    },
+    {
+     "text": "Observaciones de Enfermería.",
+     "isCorrect": true
+    },
+    {
+     "text": "Todas son correctas.",
+     "isCorrect": false
+    }
+   ]
+  },
+  {
+   "text": "La historia clínica en Atención Primaria es el documento fundamental de todo el sistema de registro. Incluye:",
+   "options": [
+    {
+     "text": "Área Social.",
+     "isCorrect": false
+    },
+    {
+     "text": "Área Médica.",
+     "isCorrect": false
+    },
+    {
+     "text": "Área Preventiva.",
+     "isCorrect": false
+    },
+    {
+     "text": "Todas son correctas.",
+     "isCorrect": true
+    }
+   ]
+  },
+  {
+   "text": "El código de la historia individual, en la Historia clínica está compuesto por ocho dígitos, cuál de estos no es correcto:",
+   "options": [
+    {
+     "text": "Tres últimas cifras del año de nacimiento",
+     "isCorrect": true
+    },
+    {
+     "text": "Día del nacimiento.",
+     "isCorrect": false
+    },
+    {
+     "text": "Iniciales de los dos apellidos.",
+     "isCorrect": false
+    },
+    {
+     "text": "Mes de nacimiento.",
+     "isCorrect": false
+    }
+   ]
+  },
+  {
+   "text": "La Persona que utiliza los servicios sanitarios de educación y promoción de la salud, de prevención de enfermedades y de información sanitaria. Se denomina:",
+   "options": [
+    {
+     "text": "Paciente.",
+     "isCorrect": false
+    },
+    {
+     "text": "Médico Responsable.",
+     "isCorrect": false
+    },
+    {
+     "text": "Usuario.",
+     "isCorrect": true
+    },
+    {
+     "text": "Ninguna es correcta.",
+     "isCorrect": false
+    }
+   ]
+  },
+  {
+   "text": "A la declaración escrita de un médico que dé fe del estado de salud de una persona en un determinado momento. Se le denomina:",
+   "options": [
+    {
+     "text": "Consentimiento Informado.",
+     "isCorrect": false
+    },
+    {
+     "text": "Documentación clínica.",
+     "isCorrect": false
+    },
+    {
+     "text": "Información clínica.",
+     "isCorrect": false
+    },
+    {
+     "text": "Certificado Médico.",
+     "isCorrect": true
+    }
+   ]
+  },
+  {
+   "text": "No es responsabilidad de la Unidad de Admisión del Hospital:",
+   "options": [
+    {
+     "text": "La recepción y registro de las urgencias.",
+     "isCorrect": false
+    },
+    {
+     "text": "La recepción y citación de los pacientes para consultas externas.",
+     "isCorrect": false
+    },
+    {
+     "text": "Llamar al médico de guardia.",
+     "isCorrect": true
+    },
+    {
+     "text": "Recepción, formalización del ingreso y asignación de cama a los pacientes que van a ser hospitalizados.",
+     "isCorrect": false
+    }
+   ]
+  },
+  {
+   "text": "Dentro de los documentos no clínicos. Están los intrahospitalarios, cual no pertenece a esta categoría:",
+   "options": [
+    {
+     "text": "Solicitud de Informe Médico.",
+     "isCorrect": true
+    },
+    {
+     "text": "Solicitud de Dietas.",
+     "isCorrect": false
+    },
+    {
+     "text": "Hoja de Seguimiento. Servicio de atención al usuario.",
+     "isCorrect": false
+    },
+    {
+     "text": "Solicitud de pruebas complementarias.",
+     "isCorrect": false
+    }
+   ]
+  }
+ ]
+}

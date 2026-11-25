@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Android 12+: pantalla de inicio del sistema en azul labjc con el icono de la app -->
+    <style name="Theme.AppTest" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:windowBackground">@color/labjc_azul_oscuro</item>
+        <item name="android:statusBarColor">@color/labjc_azul_oscuro</item>
+        <item name="android:navigationBarColor">@color/labjc_azul_oscuro</item>
+        <item name="android:windowSplashScreenBackground">@color/labjc_azul_oscuro</item>
+        <item name="android:windowSplashScreenAnimatedIcon">@mipmap/ic_launcher</item>
+    </style>
+</resources>

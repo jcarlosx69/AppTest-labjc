@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Mientras arranca la app se ve el fondo azul de labjc en vez de una pantalla blanca -->
+    <style name="Theme.AppTest" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:windowBackground">@color/labjc_azul_oscuro</item>
+        <item name="android:statusBarColor">@color/labjc_azul_oscuro</item>
+        <item name="android:navigationBarColor">@color/labjc_azul_oscuro</item>
+    </style>
+</resources>
