@@ -16,7 +16,7 @@ import es.labjc.aplicaciontest.ui.LabjcColors
 import es.labjc.aplicaciontest.ui.LabjcTheme
 
 enum class Screen {
-    Home, Test, Random, Review, Summary, Exam, ExamResult, Stats
+    Splash, Home, Test, Random, Review, Summary, Exam, ExamResult, Stats
 }
 
 @Composable
@@ -24,12 +24,13 @@ fun TestApp(
     onExitApp: () -> Unit,
     testViewModel: TestViewModel = viewModel()
 ) {
-    // rememberSaveable: al girar la pantalla no se vuelve al inicio.
-    var currentScreen by rememberSaveable { mutableStateOf(Screen.Home) }
+    // Empieza en la pantalla de bienvenida. rememberSaveable: al girar la pantalla
+    // se queda donde estaba (no vuelve a salir la bienvenida ni se vuelve al inicio).
+    var currentScreen by rememberSaveable { mutableStateOf(Screen.Splash) }
 
     // El botón "atrás" del sistema vuelve al inicio en lugar de cerrar la app.
     // (El simulacro tiene su propio BackHandler, que pide confirmación.)
-    BackHandler(enabled = currentScreen != Screen.Home) {
+    BackHandler(enabled = currentScreen != Screen.Home && currentScreen != Screen.Splash) {
         currentScreen = Screen.Home
     }
 
@@ -39,6 +40,10 @@ fun TestApp(
             color = LabjcColors.Background
         ) {
             when (currentScreen) {
+                Screen.Splash -> SplashScreen(
+                    title = testViewModel.testData.title,
+                    onFinished = { currentScreen = Screen.Home }
+                )
                 Screen.Home -> HomeScreen(
                     testViewModel = testViewModel,
                     onContinueTest = { currentScreen = Screen.Test },

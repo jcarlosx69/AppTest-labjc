@@ -14,6 +14,8 @@ Hecha con Kotlin y Jetpack Compose. Es la versión 4.0, reconstruida en noviembr
 | **Simulacro** | 50 preguntas repartidas por todos los bloques del temario, con un minuto por pregunta y sin corrección hasta entregar, como en un examen real. Muestra la nota (sin penalización por fallos) y el resultado por bloques, y pasa los fallos y las preguntas en blanco al repaso. |
 | **Estadísticas** | Preguntas vistas, porcentaje de aciertos, preguntas pendientes de repaso, historial de simulacros y preguntas más falladas. Desde aquí se puede reiniciar todo. |
 
+Al abrir la app aparece una pantalla de bienvenida en azul con el logo de labjc, que pasa sola al inicio en un par de segundos (`SplashScreen.kt`; la duración está en `SPLASH_MILLIS`).
+
 En todas las preguntas (menos durante el simulacro) está el botón **Reportar error en esta pregunta**, que abre el correo a Contacto@labjc.es con la pregunta ya escrita.
 
 ## Categorías (variantes)
